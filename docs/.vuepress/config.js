@@ -8,89 +8,59 @@ module.exports = {
   themeConfig: {
   authors: [
       {
-      name: 'Sal',
-      avatar: '/assets/img/sal.jpg',
-      link: 'https://wowthemes.net/donate',
-      linktext: 'Follow',
+      name: 'KC',
+      avatar: '/assets/img/KC.png',
+      link: 'https://twitter.com/kc10_nft',
+      linktext: 'Twitter',
       },
       {
-        name: 'John Doe',
-        avatar: '/assets/img/avatar.png',
-        link: 'https://bootstrapstarter.com/',
-        linktext: 'Follow',
+        name: 'Luke',
+        avatar: '/assets/img/luke.png',
+        link: 'https://twitter.com/itslukerare',
+        linktext: 'Twitter',
+      },
+      {
+        name: 'Fab',
+        avatar: '/assets/img/fab.png',
+        link: 'https://twitter.com/FabulousDeFi',
+        linktext: 'Twitter',
       },
     ],
     footer: {
       contact: [
         {
-          type: 'codepen',
-          link: '#',
-        },
-        {
-          type: 'facebook',
-          link: '#',
-        },
-        {
-          type: 'github',
-          link: 'https://github.com/wowthemesnet/mediumish-vuepress-blog-theme',
-        },
-        {
-          type: 'gitlab',
-          link: '#',
-        },
-        {
-          type: 'instagram',
-          link: '#',
-        },
-        {
-          type: 'linkedin',
-          link: '#',
-        },
-        {
-          type: 'mail',
-          link: '#',
-        },
-        {
           type: 'messenger',
-          link: '#',
-        },
-        {
-          type: 'phone',
-          link: '#',
+          link: 'https://t.me/pixelsweeper',
         },
         {
           type: 'twitter',
-          link: 'https://twitter.com/wowthemesnet',
+          link: 'https://twitter.com/pixelsweeper',
         },
         {
           type: 'web',
-          link: '#',
+          link: 'https://pixelsweeper.com',
         }
       ],
       copyright: [
         {
-          text: 'Licensed MIT.',
-          link: 'https://bootstrapstarter.com/license/',
-        },
-        {
-          text: 'Made with Mediumish - free Vuepress theme',
-          link: 'https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/',
+          text: 'Copyright 2022 — PixelSweeper',
+          link: 'https://pixelsweeper.com',
         },
       ],
     },
 
     sitemap: {
-      hostname: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/'
+      hostname: 'https://github.com/thecryptoneer/pixelsweeper-blog/'
     },
     comment: {
       service: 'disqus',
       shortname: 'demowebsite',
     },
     newsletter: {
-      endpoint: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b'
+      endpoint: ''
     },
     feed: {
-      canonical_base: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/',
+      canonical_base: 'https://github.com/thecryptoneer/pixelsweeper-blog/',
     },
     smoothScroll: true
   },
