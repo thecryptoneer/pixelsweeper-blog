@@ -1,9 +1,9 @@
 module.exports = {
-  title: 'Mediumish',
+  title: 'PixelSweeper',
   base: '/',
   dest: 'public',
-  description: 'Mediumish theme with VuePress and Forestry',
-  logo: './assets/img/logo.png',
+  description: 'PixelSweeper is a 3D art utility NFT collection on the BNB Chain. We are sweeping the floor of BNB Chain NFT collections.',
+  logo: './assets/img/pixelsweeper-logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
   authors: [
@@ -23,6 +23,12 @@ module.exports = {
         name: 'Fab',
         avatar: '/assets/img/fab.png',
         link: 'https://twitter.com/FabulousDeFi',
+        linktext: 'Twitter',
+      },
+      {
+        name: 'The Cryptoneer',
+        avatar: '/assets/img/cryptoneer.png',
+        link: 'https://twitter.com/thecryptoneer',
         linktext: 'Twitter',
       },
     ],

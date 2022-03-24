@@ -1,7 +1,7 @@
 {
-  "name": "vuepress-theme-mediumish",
+  "name": "pixelsweeper-blog",
   "version": "1.0.32",
-  "description": "Mediumish blog theme for VuePress",
+  "description": "Blog for PixelSweeper NFT Collection",
   "keywords": [
     "vue",
     "vuepress",
@@ -10,12 +10,7 @@
     "blog",
     "theme"
   ],
-  "repository": {
-    "type": "git",
-    "url": "wowthemesnet/mediumish-vuepress-blog-theme"
-  },
-  "license": "MIT",
-  "author": "sal<wowthemesnet@gmail.com>",
+  "author": "thecryptoneer",
   "main": "index.js",
   "files": [
     "index.js",
@@ -26,10 +21,10 @@
     "components"
   ],
   "scripts": {
-    "docs:build": "vuepress build docs --temp docs/.temp",
-    "docs:dev": "vuepress dev docs --temp docs/.temp",
     "build": "vuepress build docs",
     "dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs --temp docs/.temp",
+    "docs:dev": "vuepress dev docs --temp docs/.temp",
     "lint": "eslint . --ext .js,.vue",
     "prepublishOnly": "npm run test && npm run docs:build && conventional-changelog -p angular -r 2 -i CHANGELOG.md -s",
     "start": "yarn dev",
