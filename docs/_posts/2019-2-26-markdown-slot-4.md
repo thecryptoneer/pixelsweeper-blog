@@ -5,107 +5,84 @@ author: PixelSweeper
 featuredimg: https://images.unsplash.com/photo-1566224425427-998503a013f6?ixlib=rb-1.2.1&auto=format&fit=crop&w=898&q=80
 summary: Implementing markdown files, provders of metadata.
 ---
+PixelSweepers is a set of 10,000 ERC721 3D NFTs on BNB Chain.
 
-VuePress implements a content distribution API for Markdown. With this feature, you can split your document into multiple fragments to facilitate flexible composition in the layout component.
+#### **We'll be sweeping the floor on several BNB Chain NFT collections and redistributing those NFTs back to PixelSweeper holders.**
 
-## Why do I need Markdown Slot?
+9,500 PixelSweepers will be available for mint at a cost of around $100 BUSD (in BNB). 500 NFTs will be reserved for marketing and the team.
 
-First, let's review the relationship between layout components and markdown files:
+The BNB raised through public mint will be allocated as follows:
 
-<diagram-markdown-slot-relationship/>
+* 90% used to sweep the PancakeSquad floor
+* 5% of the BNB raised will be used to sweep the floor of other collections as voted on by PixelSweeper holders
+* 5% of the funds will be designated for the team.
 
-Markdown files are providers of metadata (Page content, Configuration, etc.), while layout components consume them. We can use `frontmatter` to define some metadata for common data types, but `frontmatter` is hard to do something about markdown / HTML, a complex metadata that involves differences before and after compilation.
+## PixelSweeper Voting
 
-Markdown Slot is to solve this kind of problem.
+Aside from sweeping the PancakeSquad floor, PixelSweeper holders will get to vote on which other BNB Chain projects we sweep.
 
-## Named Slots
+Eventually, PixelSweeper holders will also have an opportunity to vote on which NFTs will be purchased to be added to the primary PixelSweeper Staker & Player Pots
 
-You can define a named markdown slot through the following markdown syntax:
+The first vote for PixelSweeper NFT holders will be on which other three BNB Chain collections will have their floor swept from the initial mint. This vote will take place after all Sweepers are minted:
 
-``` md
-::: slot name
+1st Place: $25,000 Sweep
 
-:::
-```
+2nd Place: $15,000 Sweep
 
-Use the `Content` component to use the slot in the layout component:
+3rd Place: $10,000 Sweep
 
-``` vue
-<Content slot-key="name"/>
-```
+## Why Sweep so many Squaddies?
 
-::: tip
-Here we are using `slot-key` instead of `slot`, because in Vue, `slot` is a reserved prop name.
-:::
+Our goal is to make PixelSweeper sustainable for all holders. The longer things are sustained, the more Sweeping we can do on all projects. We’ll initially be sweeping $50,000 worth of NFTs across three non-PancakeSquad floors, and we think this will have a very positive impact to those other collections, and to the BNB Chain NFT space.
 
-## Default Slot Content
+A portion of the money from future ticket sales will also be used to sweep other floors in the future too. By having the biggest and most popular collection on BNB Chain at the center of our mechanisms we are confident that the PixelSweepers will hold some value, that tickets will be sold and hopefully in years to come our robots will be out there sweeping other collections too.
 
-By default, the slot-free part of a markdown file becomes the default content of a markdown slot, which you can access directly using the `Content` component:
+## **Distribution of Swept NFTs**
 
-``` vue
-<Content/>
-```
+The NFTs swept will be randomly distributed to PixelSweeper holders through two “Pots” on pixelsweeper.com.
 
-## Example
+One Staker Pot and another Player Pot.
 
-Suppose your layout component is as follows:
+## **Staker Pot**
 
-``` vue
-<template>
-  <div class="container">
-    <header>
-      <Content slot-key="header"/>
-    </header>
-    <main>
-      <Content/>
-    </main>
-    <footer>
-      <Content slot-key="footer"/>
-    </footer>
-  </div>
-</template>
-```
+Each week you’ll have a chance to win one or more PancakeSquad NFTs, or an NFT from another BNB Chain collection, just by holding a PixelSweeper.
 
-If the markdown content of a page is like this:
+The more rare your PixelSweeper is, the higher chance you will have in the weekly distribution, so people will be incentivised to collect and hodl the rarest Sweepers too. Rarity will be based on the Rarity Score + Sets parameter from Rareboard.
 
-```md
-::: slot header
-# Here might be a page title
-:::
+That said, rarity will only give a slight advantage.
 
-- A Paragraph
-- Another Paragraph
+For example, having the two most common PixelSweepers will still count more than having the most rare 1 PixelSweeper
 
-::: slot footer
-Here's some contact info
-:::
-```
+## **Player Pot**
 
-Then the rendered HTML of this page will be:
+The Player Pot will give you a second opportunity to win NFTs through weekly ticket sales. You will only be able to buy tickets for the Player Pot if you hold a PixelSweeper. Ticket sales will allow us to continue sweeping the floor indefinitely.
 
-```html
-<div class="container">
-  <header>
-    <div class="content header">
-      <h1>Here might be a page title</h1>
-    </div>
-  </header>
-  <main>
-    <div class="content default">
-      <ul>
-        <li>A Paragraph</li>
-        <li>Another Paragraph</li>
-      </ul>
-    </div>
-  </main>
-  <footer>
-    <div class="content footer">
-      <p>Here's some contact info</p>
-    </div>
-  </footer>
-</div>
-```
+Tickets will cost $1 each, and you will be able to purchase a maximum of 100 tickets for every PixelSweeper that you have.
 
-Note that:
-1. Unlike the slot mechanism provided by [Vue](https://vuejs.org/v2/guide/components-slots.html) itself, each content distribution is wrapped in a `div` whose class is `content` with the name of the slot.
-2. Please ensure the uniqueness of the slot defined.
+Funds from the weekly ticket sales will be allocated the same as the funds raised from the initial mint:
+
+* 90% Sweeping Pancake Squad Floor
+* 5% Sweeping the floor of other BNB Chain Collections as voted on by PixelSweeper holders
+* 5% Team
+
+Every time the 5% from ticket sales reaches $10,000, a new vote will be held for PixelSweeper holders to pick which project will be swept.
+
+## **Mint information**
+
+* **Mint Date:** Second Half of April 2022
+* **Supply:** 10,000
+* **Amount:** BNB equivalent of $100 BUSD
+
+## **Whitelist**
+
+**Holder Specific** - Holders of the following projects will be able to purchase 1 PixelSweeper for each qualifying NFT they own, during the designated presale period prior to our public mint
+
+* Oddblox - Holders of the first 512
+* Bitpunks holders
+* Sweet Stacks - holders of the first 500 golden tickets
+* More TBA soon
+
+**Wallet Specific** - If a member earned WL through their participation in any of the following groups, they will be able to purchase 1 additional PixelSweeper during the designated presale period prior to our public mint
+
+* Rareboard Telegram group
+* More TBA soon
