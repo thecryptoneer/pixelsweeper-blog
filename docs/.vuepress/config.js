@@ -1,12 +1,14 @@
 module.exports = {
   title: 'PixelSweeper',
   base: '/',
-  favicon: './assets/img/pixelsweeper-logo.png',
   dest: 'public',
-  description: 'PixelSweeper is a 3D art utility NFT collection on the BNB Chain. We are sweeping the floor of BNB Chain NFT collections.',
+  description: 'We\'re a collection of 10,000 robots, who are busy sweeping the floor on BNBChain and redistributing the swept NFTs back to PixelSweeper holders.',
   logo: './assets/img/pixelsweeper-logo.png',
   header_logo: './assets/img/pixelsweeper-logo-text.png',
   theme: require.resolve('../../'),
+  head: [
+    ['link', { rel: 'icon', href: './assets/img/pixelsweeper-logo.png' }]
+  ],
   themeConfig: {
     footer: {
       contact: [
