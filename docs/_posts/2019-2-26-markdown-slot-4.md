@@ -1,9 +1,11 @@
 ---
-title: Markdown Slot 4
-date: 2019-2-26
+title: PixelSweeper Project Summary
+date: 2022-03-29 00:00:00 +0200
 author: PixelSweeper
-featuredimg: https://images.unsplash.com/photo-1566224425427-998503a013f6?ixlib=rb-1.2.1&auto=format&fit=crop&w=898&q=80
-summary: Implementing markdown files, provders of metadata.
+featuredimg: "/assets/img/pixelsweeper-logo.png"
+summary: We'll be sweeping the floor on several BNB Chain NFT collections and redistributing
+  those NFTs back to PixelSweeper holders.
+
 ---
 PixelSweepers is a set of 10,000 ERC721 3D NFTs on BNB Chain.
 
