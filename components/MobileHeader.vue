@@ -12,35 +12,34 @@
       </div>
       <div class="mobile-menu-wrapper" :class="{ open: isOpen }">
         <ul v-if="$themeConfig.nav" class="mobile-nav">
+          <li class="mobile-nav-item">
+            <a href="https://pixelsweeper.com/#home">HOME</a>
+          </li>
+          <li class="mobile-nav-item">
+            <a href="https://pixelsweeper.com/#about">ABOUT</a>
+          </li>
+          <li class="mobile-nav-item">
+            <a href="https://pixelsweeper.com/#mint">MINT</a>
+          </li>
+          <li class="mobile-nav-item">
+            <a href="https://pixelsweeper.com/#whitelist">WHITELIST</a>
+          </li>
+          <li class="mobile-nav-item">
+            <a href="https://pixelsweeper.com/#roadmap">ROADMAP</a>
+          </li>
+          <li class="mobile-nav-item">
+            <a href="https://pixelsweeper.com/#team">TEAM</a>
+          </li>
+          <li class="mobile-nav-item">
+            <a href="https://pixelsweeper.com/#social">SOCIAL</a>
+          </li>
+
           <li
             v-for="item in $themeConfig.nav"
             :key="item.text"
-            class="mobile-nav-item"
+            class="mobile-nav-item blog"
           >
             <NavLink :link="item.link">{{ item.text }}</NavLink>
-          </li>
-          <li class="mobile-nav-item">
-            <a href="https://pixelsweeper-alpha.vercel.app/#home">HOME</a>
-          </li>
-          <li class="mobile-nav-item">
-            <a href="https://pixelsweeper-alpha.vercel.app/#about">ABOUT</a>
-          </li>
-          <li class="mobile-nav-item">
-            <a href="https://pixelsweeper-alpha.vercel.app/#mint">MINT</a>
-          </li>
-          <li class="mobile-nav-item">
-            <a href="https://pixelsweeper-alpha.vercel.app/#whitelist"
-              >WHITELIST</a
-            >
-          </li>
-          <li class="mobile-nav-item">
-            <a href="https://pixelsweeper-alpha.vercel.app/#roadmap">ROADMAP</a>
-          </li>
-          <li class="mobile-nav-item">
-            <a href="https://pixelsweeper-alpha.vercel.app/#team">TEAM</a>
-          </li>
-          <li class="mobile-nav-item">
-            <a href="https://pixelsweeper-alpha.vercel.app/#social">SOCIAL</a>
           </li>
           <!--<li class="mobile-nav-item">-->
           <!--  <Feed />-->
@@ -93,7 +92,7 @@ export default {
       color inherit
 
 .mobile-nav-item
-  padding 10px 0
+  padding 0
   list-style none
   display flex
   flex-direction row
@@ -101,10 +100,22 @@ export default {
   align-items center
 
   a
-    text-decoration none
-    color: #fff!important
-    font-size 30px
-    text-transform uppercase;
+    color: #fff;
+    padding: 10px 20px;
+    font-weight: 300;
+    font-size: 40px;
+    margin: 0;
+    line-height: 1.2;
+    cursor: pointer;
+    transition: all .3s ease;
+    font-family: Boom Boom Shadow,Arial,"sans-serif";
+
+.blog
+  margin-top 32px
+
+  a
+    color #CB93B3!important
+
 
 .mobile-nav
   padding-left 0!important
@@ -116,7 +127,7 @@ export default {
   max-height 0
   overflow hidden
   transition 0.3s ease
-  background-color rgba(0,0,0,1)
+  background-color #151415
 
 .mobile-menu-wrapper.open
   min-height: 100vh

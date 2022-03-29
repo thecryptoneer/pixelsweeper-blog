@@ -4,11 +4,7 @@
       <div class="header-wrapper">
         <nav class="navbar navbar-expand-md navbar-light fixed-top">
           <div class="container">
-            <a
-              href="https://pixelsweeper-alpha.vercel.app/"
-              class="navbar-brand"
-            >
-              <!--&gt;<img :src="$withBase($themeConfig.logo)" /> {{ $site.title }}-->
+            <a href="https://pixelsweeper.com/" class="navbar-brand">
               <img :src="$withBase($themeConfig.header_logo)" />
             </a>
             <button
@@ -45,10 +41,9 @@
 
 <script>
 import SearchBox from '@SearchBox'
-import Feed from './Feed'
 
 export default {
-  components: { SearchBox, Feed },
+  components: { SearchBox },
 }
 </script>
 
