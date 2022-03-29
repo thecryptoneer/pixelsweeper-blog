@@ -9,17 +9,17 @@
 
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,700&display=swap")
 
-$green = #03a87c
-$color_1 = rgba(0, 0, 0, 0.54)
-$color_2 = rgba(0, 0, 0, 0.44)
-$color_3 = rgba(0, 0, 0, 0.8)
+$green = #CB93B3
+$color_1 = rgba(255,255,255, 0.54)
+$color_2 = rgba(255,255,255, 0.44)
+$color_3 = rgba(255,255,255, 0.8)
 $primary_font_family = 'Source Sans Pro'
 $second_font_family = 'Merriweather'
 body
   font-family: $primary_font_family
   padding-top: 120px
   color: $color_3
-  background: #fff
+  background: #201e21
 .wrapmain
   min-height:600px
 .font-secondary
@@ -35,9 +35,13 @@ nav
   font-weight: 700
   letter-spacing: -.5px
   img
-    width: 30px
+    width: auto
+    height: 40px
+    max-width 120%!important
 .navbar
-  padding: .5rem 1.5rem
+  padding: 32px 10px
+  height: 100px
+  background-color: rgba(0,0,0,.3)
   .tagline
     color: $color_2
 .nav-link
@@ -57,6 +61,8 @@ nav
     padding: 0.25rem 1rem
 .search-box input
   min-width:14rem
+  color: #FFFFFF
+  background: #34343e url(/assets/img/search.83621669.svg) 0.6rem 0.5rem no-repeat
 .article-info
   display: flex
   flex-direction: row
@@ -103,6 +109,7 @@ nav
   margin-bottom: 30px
 .card-inside
   margin-bottom: 10px
+  margin-top: 10px
 .card-container.intro
   -ms-flex: 0 0 100%
   flex: 0 0 100%
@@ -118,6 +125,7 @@ nav
     img
       height: 100%
       min-height: 300px
+      border-radius: 10px 10px 0 0
   .card-subheading
     padding-top: 0
   .card-inside
@@ -136,20 +144,32 @@ nav
     left: calc(50% + 40px)
 .card
   padding: 20px
-  border-radius: 0
-  -webkit-border-radius: 0
-  -moz-border-radius: 0
-  -ms-border-radius: 0
-  -o-border-radius: 0
+  border-radius: 10px
+  -webkit-border-radius: 10px
+  -moz-border-radius: 10px
+  -ms-border-radius: 10px
+  -o-border-radius: 10px
+  border: none
+  background-color #353037
 .card-header-image
   display: block
   margin: -20px -20px 0 -20px
+  border-radius: 10px 10px 0 0
+  -webkit-border-radius: 10px 10px 0 0
+  -moz-border-radius: 10px 10px 0 0
+  -ms-border-radius: 10px 10px 0 0
+  -o-border-radius: 10px 10px 0 0
   img
     object-fit: cover
     object-position: top
     height: 180px
     width: 100%
     cursor: pointer
+    border-radius: 10px 10px 0 0
+  -webkit-border-radius: 10px 10px 0 0
+  -moz-border-radius: 10px 10px 0 0
+  -ms-border-radius: 10px 10px 0 0
+  -o-border-radius: 10px 10px 0 0
 .card-subheading a
   color: $color_2
   font-size: 13px
@@ -216,10 +236,10 @@ code
   font-size: .85em
   border-radius: 3px
 .themefooter
-  background-color: rgba(0, 0, 0, 1)
+  background-color: transparent
   margin-top: 80px
   padding: 50px 0
-  color: rgba(255, 255, 255, 0.5)
+  color: rgba(255, 255, 255, 0.3)
   a
     color: #fff
     transition: all .2s

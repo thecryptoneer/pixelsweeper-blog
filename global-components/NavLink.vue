@@ -42,7 +42,7 @@ export default {
     exact() {
       if (this.$site.locales) {
         return Object.keys(this.$site.locales).some(
-          rootLink => rootLink === this.normalizedlink
+          (rootLink) => rootLink === this.normalizedlink
         )
       }
       return this.normalizedlink === '/'
@@ -59,9 +59,9 @@ export default {
 
 <style lang="stylus">
 .nav-link
-  color $darkTextColor
+  color: #fff!important
 
 .nav-link
   &:hover, &.router-link-active
-    color $accentColor
+    color: $accentColor
 </style>

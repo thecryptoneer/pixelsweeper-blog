@@ -2,14 +2,15 @@
   <div id="mobile-header">
     <div class="mobile-header-bar">
       <div class="mobile-header-title">
-        <NavLink link="/" class="mobile-home-link navbar-brand"><img :src="($withBase)($themeConfig.logo)"> {{ $site.title }} </NavLink>
+        <NavLink link="/" class="mobile-home-link navbar-brand"
+          ><img :src="$withBase($themeConfig.header_logo)"
+        /></NavLink>
         <component
           :is="isOpen ? 'XIcon' : 'MenuIcon'"
           @click="$emit('toggle-sidebar')"
         />
       </div>
       <div class="mobile-menu-wrapper" :class="{ open: isOpen }">
-        <hr class="menu-divider" />
         <ul v-if="$themeConfig.nav" class="mobile-nav">
           <li
             v-for="item in $themeConfig.nav"
@@ -19,8 +20,31 @@
             <NavLink :link="item.link">{{ item.text }}</NavLink>
           </li>
           <li class="mobile-nav-item">
-            <Feed />
+            <a href="https://pixelsweeper-alpha.vercel.app/#home">HOME</a>
           </li>
+          <li class="mobile-nav-item">
+            <a href="https://pixelsweeper-alpha.vercel.app/#about">ABOUT</a>
+          </li>
+          <li class="mobile-nav-item">
+            <a href="https://pixelsweeper-alpha.vercel.app/#mint">MINT</a>
+          </li>
+          <li class="mobile-nav-item">
+            <a href="https://pixelsweeper-alpha.vercel.app/#whitelist"
+              >WHITELIST</a
+            >
+          </li>
+          <li class="mobile-nav-item">
+            <a href="https://pixelsweeper-alpha.vercel.app/#roadmap">ROADMAP</a>
+          </li>
+          <li class="mobile-nav-item">
+            <a href="https://pixelsweeper-alpha.vercel.app/#team">TEAM</a>
+          </li>
+          <li class="mobile-nav-item">
+            <a href="https://pixelsweeper-alpha.vercel.app/#social">SOCIAL</a>
+          </li>
+          <!--<li class="mobile-nav-item">-->
+          <!--  <Feed />-->
+          <!--</li>-->
         </ul>
       </div>
     </div>
@@ -52,7 +76,7 @@ export default {
   top 0
   width 100vw
   box-sizing border-box
-  background-color $headerBgColor
+  background-color rgba(0,0,0,.3)
   margin auto
   box-shadow 0 5px 20px rgba(0, 0, 0, 0.03), 0 6px 6px rgba(0, 0, 0, 0.05)
   transition all 1s cubic-bezier(0.25, 0.8, 0.25, 1)
@@ -71,9 +95,19 @@ export default {
 .mobile-nav-item
   padding 10px 0
   list-style none
+  display flex
+  flex-direction row
+  justify-content center
+  align-items center
 
   a
     text-decoration none
+    color: #fff!important
+    font-size 30px
+    text-transform uppercase;
+
+.mobile-nav
+  padding-left 0!important
 
 .menu-divider
   margin 0
@@ -82,11 +116,14 @@ export default {
   max-height 0
   overflow hidden
   transition 0.3s ease
-  background-color $headerBgColor
+  background-color rgba(0,0,0,1)
 
 .mobile-menu-wrapper.open
-  max-height 450px
-  transition 0.3s ease
+  min-height: 100vh
+  transition: 0.3s ease
+  padding: 10vh 0 0 0
+  font-family: Arial
+  font-weight: 600
 
 @media (min-width: $MQMobile)
   #mobile-header

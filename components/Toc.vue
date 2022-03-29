@@ -81,7 +81,7 @@ export default {
     this._onScroll = () => this.onScroll()
     this._onHashChange = () => {
       const hash = decodeURIComponent(location.hash.substring(1))
-      const index = (this.$page.headers || []).findIndex(h => h.slug === hash)
+      const index = (this.$page.headers || []).findIndex((h) => h.slug === hash)
       if (index >= 0) this.activeIndex = index
       const dom = hash && document.getElementById(hash)
       if (dom) window.scrollTo(0, getAbsoluteTop(dom) - 20)
@@ -108,7 +108,7 @@ export default {
 
       // change active toc with scrolling
       let i = 0
-      const addLink = index => {
+      const addLink = (index) => {
         this.activeIndex = index
       }
 
@@ -142,7 +142,7 @@ export default {
   max-height 100vh
   max-width 220px
   overflow-y auto
-  padding-top 5rem
+  padding-top 100px
   top 0
   right 10px
   box-sizing border-box

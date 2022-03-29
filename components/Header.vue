@@ -2,11 +2,15 @@
   <section id="header-wrapper">
     <header id="header">
       <div class="header-wrapper">
-        <nav class="navbar navbar-expand-md navbar-light bg-white fixed-top">
+        <nav class="navbar navbar-expand-md navbar-light fixed-top">
           <div class="container">
-            <NavLink link="/" class="navbar-brand"
-              ><img :src="$withBase($themeConfig.logo)" /> {{ $site.title }}
-            </NavLink>
+            <a
+              href="https://pixelsweeper-alpha.vercel.app/"
+              class="navbar-brand"
+            >
+              <!--&gt;<img :src="$withBase($themeConfig.logo)" /> {{ $site.title }}-->
+              <img :src="$withBase($themeConfig.header_logo)" />
+            </a>
             <button
               class="navbar-toggler"
               type="button"
@@ -30,7 +34,6 @@
                   }}</NavLink>
                 </li>
                 <SearchBox />
-                <Feed />
               </ul>
             </div>
           </div>

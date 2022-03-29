@@ -8,15 +8,16 @@ module.exports = (themeConfig) => {
    */
   themeConfig = Object.assign(themeConfig, {
     logo: '/assets/img/pixelsweeper-logo.png',
+    header_logo: '/assets/img/pixelsweeper-logo-text.png',
     nav: themeConfig.nav || [
       {
-        text: 'Blog',
+        text: 'All Articles',
         link: '/',
       },
-      {
-        text: 'Tags',
-        link: '/tag/',
-      },
+      // {
+      //   text: 'Tags',
+      //   link: '/tag/',
+      // },
     ],
     summary: themeConfig.summary === undefined ? true : themeConfig.summary,
     summaryLength:
@@ -38,11 +39,11 @@ module.exports = (themeConfig) => {
       },
     ],
     frontmatters: [
-      {
-        id: 'tag',
-        keys: ['tags'],
-        path: '/tag/',
-      },
+      // {
+      //   id: 'tag',
+      //   keys: ['tags'],
+      //   path: '/tag/',
+      // },
     ],
     globalPagination: {
       lengthPerPage: 6,
