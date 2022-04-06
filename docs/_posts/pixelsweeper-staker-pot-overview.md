@@ -12,7 +12,7 @@ link_preview_description: By staking your PixelSweeper NFT on pixelsweeper.com, 
   staked.  The winning Sweeper will automatically receive one of the Swept NFTs
 
 ---
-**How will the Staker Pot work?**
+# **How will the Staker Pot work?**
 
 Apart from the incredible art from our team of three artists, the purpose of the PixelSweeper collection is to sweep the floor on BNB Chain NFT projects, and redistribute those swept NFTs back to PixelSweeper holders.
 
@@ -20,7 +20,7 @@ There’s actually going to be two ways that we redistribute the swept NFTs back
 
 Only those people who stake Sweepers will be able to buy weekly tickets for the Player Pot, but this article will explain how you can win NFTs for free, just by staking your Sweeper.
 
-**Staker Pot Mechanics**
+## **Staker Pot Mechanics**
 
 The Staker Pot mechanics will be very similar to the way Moonpot works.
 
@@ -30,11 +30,11 @@ Put simply, you will stake your Sweeper NFT into a pot on [pixelsweeper.com](htt
 
 Whoever has the winning Sweeper will automatically receive one of the Swept NFTs. We’ll also announce on Twitter which wallet won, what NFT they won, and a link to the BSCscan transaction so that you can see everything on-chain.
 
-**Keeping the Staker Pot Fair**
+## **Keeping the Staker Pot Fair**
 
 In order to reduce the volatility that might occur if people bought Sweepers, staked them right before the next draw and then unstaked them afterwards to put them back on the market; the longer you stay in the draw each week, the slightly higher your chances are of winning that week.
 
-**How rarity impacts your chances to win**
+### **How rarity impacts your chances to win**
 
 The more rare your PixelSweeper is, the higher chance you will have in the weekly distribution, so people will be incentivised to collect and hodl the rarest Sweepers too.
 
@@ -46,7 +46,7 @@ The way this will work is that those staking the rarer Sweepers will receive fra
 
 We’re not doing this to give a huge advantage to those holding the rarer Sweepers, but we do think it’s a good way to encourage the collection of the rarer NFTs.
 
-**So do I need to buy tickets to play in the Staker Pot?**
+## **So do I need to buy tickets to play in the Staker Pot?**
 
 The simple answer is: no. The Staker Pot is entirely free for those who stake their PixelSweeper NFTs. The swept NFTs in the Staker Pot can only be won by staking your Sweeper, and the chance to win from the Staker Pot won’t be shared with those who buy tickets in the Player Pot.
 
