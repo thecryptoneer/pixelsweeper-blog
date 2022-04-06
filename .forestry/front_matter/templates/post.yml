@@ -23,6 +23,8 @@ fields:
     required: true
 - name: link_preview_img
   type: file
+  description: Will be used for link previews. Please use an image with 800x418px to match the specs of twitter summary
+    cards with large images.
   config:
     maxSize: 64
     required: true
