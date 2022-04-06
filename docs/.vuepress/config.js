@@ -3,6 +3,7 @@ module.exports = {
   base: '/',
   dest: 'public',
   description: 'We\'re a collection of 10,000 robots, who are busy sweeping the floor on BNBChain and redistributing the swept NFTs back to PixelSweeper holders.',
+  domain: 'https://blog.pixelsweeper.com/',
   logo: './assets/img/pixelsweeper-logo.png',
   header_logo: './assets/img/pixelsweeper-logo-text.png',
   theme: require.resolve('../../'),
@@ -10,6 +11,9 @@ module.exports = {
     ['link', { rel: 'icon', href: './assets/img/pixelsweeper-logo.png' }]
   ],
   themeConfig: {
+    defaultImage: '/assets/img/pixelsweeper-logo.png',
+    domain: 'https://blog.pixelsweeper.com',
+    logo: 'https://blog.pixelsweeper.com/assets/img/pixelsweeper-logo.png',
     footer: {
       contact: [
         {
@@ -32,13 +36,15 @@ module.exports = {
         },
       ],
     },
-
     sitemap: {
       hostname: 'https://github.com/thecryptoneer/pixelsweeper-blog/'
     },
     feed: {
       canonical_base: 'https://github.com/thecryptoneer/pixelsweeper-blog/',
     },
-    smoothScroll: true
+    smoothScroll: true,
   },
+  plugins: [
+    require('./plugins/dynamic-data')
+  ]
 }

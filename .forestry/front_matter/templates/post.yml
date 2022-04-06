@@ -16,5 +16,21 @@ fields:
 - type: text
   name: summary
   label: summary
+- type: text
+  name: canonicalUrl
+  label: canonicalUrl
+  config:
+    required: true
+- name: link_preview_img
+  type: file
+  config:
+    maxSize: 64
+    required: true
+  label: link_preview_img
+- type: text
+  name: link_preview_description
+  label: link_preview_description
+  config:
+    required: true
 pages:
-- docs/_posts/2019-5-6-writing-a-vuepress-theme.md
+- docs/_posts/project-summary-pixelsweeper.md
