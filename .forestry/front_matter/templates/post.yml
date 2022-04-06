@@ -32,5 +32,17 @@ fields:
   label: link_preview_description
   config:
     required: true
+#- type: select
+#  name: twitter_card
+#  label: twitter card
+#  description: "Please choose a format for the twitter link preview. (Overview of all Card types: https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)"
+#  hidden: false
+#  config:
+#    source:
+#      type: custom
+#    options:
+#      - "summary"
+#      - "summary_large_image"
+
 pages:
 - docs/_posts/project-summary-pixelsweeper.md

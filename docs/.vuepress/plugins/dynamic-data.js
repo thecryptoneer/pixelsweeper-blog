@@ -57,6 +57,7 @@ module.exports = (options = {}, ctx) => ({
       { property: 'twitter:description', content: metadata.description },
       { property: 'twitter:image', content: metadata.image ? metadata.image : null },
       { property: 'twitter:image:alt', content: metadata.title },
+      { property: 'twitter:card', content: 'summary_large_image' },
     ]
 
     // Remove tags with empty content values
