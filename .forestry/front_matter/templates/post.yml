@@ -45,4 +45,5 @@ fields:
 #      - "summary_large_image"
 
 pages:
+- docs/_posts/pixelsweeper-staker-pot-overview.md
 - docs/_posts/project-summary-pixelsweeper.md
