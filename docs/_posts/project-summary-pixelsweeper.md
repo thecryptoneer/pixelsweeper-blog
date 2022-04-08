@@ -1,13 +1,14 @@
 ---
 title: PixelSweeper Project Summary
-date: 2022-03-29 00:00:00 +0200
+date: 2022-03-29T00:00:00.000+02:00
 author: PixelSweeper
-featuredimg: "/assets/img/pixelsweeper-logo.png"
-link_preview_description: "We'll be sweeping the floor on several BNB Chain NFT collections and redistributing
-those NFTs back to PixelSweeper holders."
-link_preview_img: "/assets/img/pixelsweeper-logo.png"
+featuredimg: "/assets/img/project.png"
+link_preview_description: We'll be sweeping the floor on several BNB Chain NFT collections
+  and redistributing those NFTs back to PixelSweeper holders.
+link_preview_img: "/assets/img/project.png"
 summary: We'll be sweeping the floor on several BNB Chain NFT collections and redistributing
   those NFTs back to PixelSweeper holders.
+canonicalUrl: https://blog.pixelsweeper.com/2022/03/29/project-summary-pixelsweeper/
 
 ---
 PixelSweepers is a set of 10,000 ERC721 3D NFTs on BNB Chain.
@@ -18,13 +19,13 @@ PixelSweepers is a set of 10,000 ERC721 3D NFTs on BNB Chain.
 
 The BNB raised through public mint will be allocated as follows:
 
-* 90% used to sweep the PancakeSquad floor
+* 90% used to sweep the Pancake Squad floor
 * 5% of the BNB raised will be used to sweep the floor of other collections as voted on by PixelSweeper holders
 * 5% of the funds will be designated for the team.
 
 ## PixelSweeper Voting
 
-Aside from sweeping the PancakeSquad floor, PixelSweeper holders will get to vote on which other BNB Chain projects we sweep.
+Aside from sweeping the Pancake Squad floor, PixelSweeper holders will get to vote on which other BNB Chain projects we sweep.
 
 Eventually, PixelSweeper holders will also have an opportunity to vote on which NFTs will be purchased to be added to the primary PixelSweeper Staker & Player Pots
 
@@ -38,7 +39,7 @@ The first vote for PixelSweeper NFT holders will be on which other three BNB Cha
 
 ## Why Sweep so many Squaddies?
 
-Our goal is to make PixelSweeper sustainable for all holders. The longer things are sustained, the more Sweeping we can do on all projects. We’ll initially be sweeping $50,000 worth of NFTs across three non-PancakeSquad floors, and we think this will have a very positive impact to those other collections, and to the BNB Chain NFT space.
+Our goal is to make PixelSweeper sustainable for all holders. The longer things are sustained, the more Sweeping we can do on all projects. We’ll initially be sweeping $50,000 worth of NFTs across three non-Pancake Squad floors, and we think this will have a very positive impact to those other collections, and to the BNB Chain NFT space.
 
 A portion of the money from future ticket sales will also be used to sweep other floors in the future too. By having the biggest and most popular collection on BNB Chain at the center of our mechanisms we are confident that the PixelSweepers will hold some value, that tickets will be sold and hopefully in years to come our robots will be out there sweeping other collections too.
 
@@ -50,7 +51,7 @@ One Staker Pot and another Player Pot.
 
 ## **Staker Pot**
 
-Each week you’ll have a chance to win one or more PancakeSquad NFTs, or an NFT from another BNB Chain collection, just by holding a PixelSweeper.
+Each week you’ll have a chance to win one or more Pancake Squad NFTs, or an NFT from another BNB Chain collection, just by holding a PixelSweeper.
 
 The more rare your PixelSweeper is, the higher chance you will have in the weekly distribution, so people will be incentivised to collect and hodl the rarest Sweepers too. Rarity will be based on the Rarity Score + Sets parameter from Rareboard.
 
@@ -85,9 +86,12 @@ Every time the 5% from ticket sales reaches $10,000, a new vote will be held for
 * Oddblox - Holders of the first 512
 * Bitpunks holders
 * Sweet Stacks - holders of the first 500 golden tickets
+* Bull Society & Lil' Bulls - Holders of rarity 1-250
+* Chimpo Dream holders
 * More TBA soon
 
 **Wallet Specific** - If a member earned WL through their participation in any of the following groups, they will be able to purchase 1 additional PixelSweeper during the designated presale period prior to our public mint
 
 * Rareboard Telegram group
+* Pancake Squad Trade group
 * More TBA soon
