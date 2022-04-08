@@ -23,8 +23,8 @@ fields:
     required: true
 - name: link_preview_img
   type: file
-  description: Will be used for link previews. Please use an image with 800x418px to match the specs of twitter summary
-    cards with large images.
+  description: Will be used for link previews. Please use an image with 800x418px
+    to match the specs of twitter summary cards with large images.
   config:
     maxSize: 64
     required: true
@@ -34,18 +34,6 @@ fields:
   label: link_preview_description
   config:
     required: true
-#- type: select
-#  name: twitter_card
-#  label: twitter card
-#  description: "Please choose a format for the twitter link preview. (Overview of all Card types: https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)"
-#  hidden: false
-#  config:
-#    source:
-#      type: custom
-#    options:
-#      - "summary"
-#      - "summary_large_image"
-
 pages:
 - docs/_posts/pixelsweeper-staker-pot-overview.md
 - docs/_posts/project-summary-pixelsweeper.md
