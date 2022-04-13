@@ -81,5 +81,3 @@ We understand that some PixelSweeper holders won’t want to purchase tickets, o
 The more people that play in the Player Pot each week, though, the longer we will be sustainably sweeping NFT floors on BNBChain.
 
 **_Follow us on Twitter at twitter.com/pixelsweeper to be first to see our articles. And join us on Telegram at t.me/pixelsweeper if you have any questions._**
-
-![](/assets/img/1-pancake-squad-swept.png)
