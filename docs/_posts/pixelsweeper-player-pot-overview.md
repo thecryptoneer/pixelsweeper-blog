@@ -48,7 +48,7 @@ Regardless of ticket sales, there will always be at least one weekly prize in th
 
 Any unused BNB from weekly ticket sales, such as the 3 BNB referenced above, will roll over to the following week and count toward that week’s sweeping efforts.
 
-**(Note: For our visual learners, later this week we will release graphics demonstrating the various ticket sale scenarios)**
+**(Note: For our visual learners, click** [**here**](https://blog.pixelsweeper.com/2022/04/13/player-pot-scenarios/ "Player Pot Scenarios") **to view the Player Pot Scenarios blog, which includes graphics covering the 4 possible scenarios)**
 
 ## **Player Pot Mechanics**
 
