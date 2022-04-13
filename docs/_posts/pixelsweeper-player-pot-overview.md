@@ -1,6 +1,6 @@
 ---
 title: PixelSweeper Player Pot Overview
-date: 2022-04-13 06:00:00 +0200
+date: 2022-04-13 21:00:00 +0200
 featuredimg: "/assets/img/player-pot.png"
 summary: The Player Pot gives holders an additional chance to win an NFT every week
   by buying tickets. The sale of tickets will allow PixelSweeper to continue sweeping
