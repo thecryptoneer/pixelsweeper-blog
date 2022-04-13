@@ -2,18 +2,14 @@
 title: PixelSweeper Player Pot Overview
 date: 2022-04-13 06:00:00 +0200
 featuredimg: "/assets/img/player-pot.png"
-summary: 'The Player Pot gives holders an additional chance to win an NFT every week
+summary: The Player Pot gives holders an additional chance to win an NFT every week
   by buying tickets. The sale of tickets will allow PixelSweeper to continue sweeping
-  NFT floors indefinitely.  Tickets will cost $1 each and will be restricted to PixelSweeper
-  holders who have staked their NFT. Holders will be able to purchase a maximum of
-  100 tickets for every PixelSweeper they have. '
+  NFT floors indefinitely.
 canonicalUrl: https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/
 link_preview_img: "/assets/img/player-pot.png"
-link_preview_description: 'The Player Pot gives holders an additional chance to win
+link_preview_description: The Player Pot gives holders an additional chance to win
   an NFT every week by buying tickets. The sale of tickets will allow PixelSweeper
-  to continue sweeping NFT floors indefinitely.  Tickets will cost $1 each and will
-  be restricted to PixelSweeper holders who have staked their NFT. Holders will be
-  able to purchase a maximum of 100 tickets for every PixelSweeper they have. '
+  to continue sweeping NFT floors indefinitely.
 
 ---
 # **How will the Player Pot work?**
