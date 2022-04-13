@@ -48,11 +48,11 @@ So for example, if the 90% from ticket sales is enough to sweep three Pancake Sq
 
 If the 90% from ticket sales is enough to sweep ten Pancake Squads from the floor in that week, then there will be nine Pancake Squad prizes in that week’s Player Pot prize draw.
 
-**_(For those who are visual learners, later this week we will release graphics demonstrating the various ticket sale scenarios)_**
-
 Regardless of ticket sales, there will always be at least one weekly prize in the Player Pot and a prize in the Staker Pot. For example, if there was a week where we raised 3 BNB in ticket sales which was not enough to sweep the floor, we would replenish both pots with a Pancake Squad from The Vault.
 
 Any unused BNB from weekly ticket sales, such as the 3 BNB referenced above, will roll over to the following week and count toward that week’s sweeping efforts.
+
+**(Note: For our visual learners, later this week we will release graphics demonstrating the various ticket sale scenarios)**
 
 ## **Player Pot Mechanics**
 
