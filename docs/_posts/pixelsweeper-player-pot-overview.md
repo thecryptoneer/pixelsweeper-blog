@@ -48,7 +48,7 @@ So for example, if the 90% from ticket sales is enough to sweep three Pancake Sq
 
 If the 90% from ticket sales is enough to sweep ten Pancake Squads from the floor in that week, then there will be nine Pancake Squad prizes in that week’s Player Pot prize draw.
 
-**_(For those who are visual learners, see the 4 scenario graphics at the end of the article)_**
+**_(For those who are visual learners, later this week we will release graphics demonstrating the various ticket sale scenarios)_**
 
 Regardless of ticket sales, there will always be at least one weekly prize in the Player Pot and a prize in the Staker Pot. For example, if there was a week where we raised 3 BNB in ticket sales which was not enough to sweep the floor, we would replenish both pots with a Pancake Squad from The Vault.
 
@@ -80,30 +80,6 @@ We understand that some PixelSweeper holders won’t want to purchase tickets, o
 
 The more people that play in the Player Pot each week, though, the longer we will be sustainably sweeping NFT floors on BNBChain.
 
-### **The Vault**
+**_Follow us on Twitter at twitter.com/pixelsweeper to be first to see our articles. And join us on Telegram at t.me/pixelsweeper if you have any questions._**
 
-### **![](/assets/img/untitled-design-6.png)**
-
-Before explaining the ticket sales scenarios, it’s important to first understand what The Vault is. 
-
-The Vault is where we'll store the Pancake Squad NFTs that were swept with proceeds from the PixelSweeper mint. Squaddies will only be pulled from The Vault if we do not sell enough tickets in a given week to replenish the Player Pot and/or the Staker Pot, as demonstrated below in Scenario One below. 
-
-## **Ticket Sales Examples**
-
-### **Scenario One - No Pancake Squad NFTs Swept**
-
-![](/assets/img/scenario-1.png)
-
-### **Scenario Two - 1 Pancake Squad NFT Swept**
-
-![](/assets/img/scenario-2.png)
-
-### **Scenario Three - 2 Pancake Squad NFTs Swept**
-
-![](/assets/img/scenario-3.png)
-
-### **Scenario Four - 3 or More Pancake Squad NFTs Swept**
-
-![](/assets/img/scenario-4.png)
-
-Follow us on Twitter at twitter.com/pixelsweeper to be first to see our articles. And join us on Telegram at t.me/pixelsweeper if you have any questions.
+![](/assets/img/1-pancake-squad-swept.png)
