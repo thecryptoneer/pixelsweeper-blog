@@ -1,5 +1,5 @@
 ---
-title: Player Pot Scenarios
+title: PixelSweeper Player Pot Scenarios
 date: 2022-04-13 21:00:00 +0200
 featuredimg: "/assets/img/player-pot-2.png"
 summary: Here are the four potential scenarios that may occur based on the weekly
