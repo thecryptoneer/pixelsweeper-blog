@@ -1,6 +1,6 @@
 ---
 title: PixelSweeper Staker Pot Overview
-date: 2022-04-06 00:00:00 +0200
+date: 2022-04-06T00:00:00.000+02:00
 featuredimg: "/assets/img/staker-pot.jpg"
 summary: By staking your PixelSweeper NFT on pixelsweeper.com, you’re automatically
   entered into the weekly Staker Pot drawing for each Sweeper you’ve staked.  The
@@ -16,9 +16,9 @@ link_preview_description: By staking your PixelSweeper NFT on pixelsweeper.com, 
 
 Apart from the incredible art from our team of three artists, the purpose of the PixelSweeper collection is to sweep the floor on BNB Chain NFT projects, and redistribute those swept NFTs back to PixelSweeper holders.
 
-There’s actually going to be two ways that we redistribute the swept NFTs back to holders. One will work simply by staking your Sweeper (in the Staker Pot), and the other will work by buying weekly tickets for $1 each (in the Player Pot)
+There’s actually going to be two ways that we redistribute the swept NFTs back to holders. One will work simply by staking your Sweeper (in the Staker Pot), and the other will work by buying weekly tickets for $1 each (in the [Player Pot](https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/ "Player Pot Article"))
 
-Only those people who stake Sweepers will be able to buy weekly tickets for the Player Pot, but this article will explain how you can win NFTs for free, just by staking your Sweeper.
+Only those people who stake Sweepers will be able to buy weekly tickets for the [Player Pot](https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/ "Player Pot Overview"), but this article will explain how you can win NFTs for free, just by staking your Sweeper.
 
 ## **Staker Pot Mechanics**
 
@@ -48,12 +48,12 @@ We’re not doing this to give a huge advantage to those holding the rarer Sweep
 
 ## **So do I need to buy tickets to play in the Staker Pot?**
 
-The simple answer is: no. The Staker Pot is entirely free for those who stake their PixelSweeper NFTs. The swept NFTs in the Staker Pot can only be won by staking your Sweeper, and the chance to win from the Staker Pot won’t be shared with those who buy tickets in the Player Pot.
+The simple answer is: no. The Staker Pot is entirely free for those who stake their PixelSweeper NFTs. The swept NFTs in the Staker Pot can only be won by staking your Sweeper, and the chance to win from the Staker Pot won’t be shared with those who buy tickets in the [Player Pot](https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/ "Player Pot Overview").
 
 All the non-Squaddie NFTs will go in the Staker Pot, and every four weeks there will be an extra free draw for the Staker Pot to win some of the non-Squaddie NFTs.
 
-We’ll be splitting the swept Squaddie NFTs 50/50 between the Staker Pot and the Player Pot. This means, the weekly Player Pot where you can buy upto 100 tickets at $1 a ticket, per PixelSweeper you have staked, will have its own collection of Squaddie prizes to win.
+We’ll be splitting the swept Squaddie NFTs 50/50 between the Staker Pot and the [Player Pot](https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/ "Player Pot Overview"). This means, the weekly [Player Pot](https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/ "Player Pot Overview") where you can buy upto 100 tickets at $1 a ticket, per PixelSweeper you have staked, will have its own collection of Squaddie prizes to win.
 
-We’ll be explaining the Player Pot, how we’re splitting up the swept NFTs, and how we’re going to use the Player Pot ticket sales to keep PixelSweeper sustainable, in future articles.
+We’ll be explaining the [Player Pot](https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/ "Player Pot Overview"), how we’re splitting up the swept NFTs, and how we’re going to use the [Player Pot](https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/ "Player Pot Overview") ticket sales to keep PixelSweeper sustainable, in future articles.
 
 Follow us on Twitter at twitter.com/pixelsweeper to be first to see our articles. And join us on Telegram at t.me/pixelsweeper if you have any questions.
