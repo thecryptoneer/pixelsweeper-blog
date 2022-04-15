@@ -95,3 +95,5 @@ Every time the 5% from ticket sales reaches $10,000, a new vote will be held for
 * Rareboard Telegram group
 * Pancake Squad Trade group
 * More TBA soon
+
+![](/assets/img/untitled-design-10.png)
