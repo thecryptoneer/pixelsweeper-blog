@@ -56,4 +56,6 @@ We’ll be splitting the swept Squaddie NFTs 50/50 between the Staker Pot and th
 
 We’ll be explaining the [Player Pot](https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/ "Player Pot Overview"), how we’re splitting up the swept NFTs, and how we’re going to use the [Player Pot](https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/ "Player Pot Overview") ticket sales to keep PixelSweeper sustainable, in future articles.
 
-Follow us on Twitter at twitter.com/pixelsweeper to be first to see our articles. And join us on Telegram at t.me/pixelsweeper if you have any questions.
+**Follow us on Twitter at twitter.com/pixelsweeper to be first to see our articles. And join us on Telegram at t.me/pixelsweeper if you have any questions.**
+
+![](/assets/img/untitled-design-10.png)
