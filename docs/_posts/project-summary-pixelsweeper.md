@@ -27,7 +27,7 @@ The BNB raised through public mint will be allocated as follows:
 
 Aside from sweeping the Pancake Squad floor, PixelSweeper holders will get to vote on which other BNB Chain projects we sweep.
 
-Eventually, PixelSweeper holders will also have an opportunity to vote on which NFTs will be purchased to be added to the primary PixelSweeper Staker & Player Pots
+Eventually, PixelSweeper holders will also have an opportunity to vote on which NFTs will be purchased to be added to the primary PixelSweeper [Staker Pot]() & [Player Pot](https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/ "Player Pot Overview")
 
 The first vote for PixelSweeper NFT holders will be on which other three BNB Chain collections will have their floor swept from the initial mint. This vote will take place after all Sweepers are minted:
 
@@ -47,7 +47,7 @@ A portion of the money from future ticket sales will also be used to sweep other
 
 The NFTs swept will be randomly distributed to PixelSweeper holders through two “Pots” on pixelsweeper.com.
 
-One Staker Pot and another Player Pot.
+One [Staker Pot](https://blog.pixelsweeper.com/2022/04/05/pixelsweeper-staker-pot-overview/ "Staker Pot Overview") and another [Player Pot](https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/ "Player Pot Overview").
 
 ## **Staker Pot**
 
@@ -61,7 +61,7 @@ For example, having the two most common PixelSweepers will still count more than
 
 ## **Player Pot**
 
-The Player Pot will give you a second opportunity to win NFTs through weekly ticket sales. You will only be able to buy tickets for the Player Pot if you hold a PixelSweeper. Ticket sales will allow us to continue sweeping the floor indefinitely.
+The [Player Pot](https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/ "Player Pot Overview") will give you a second opportunity to win NFTs through weekly ticket sales. You will only be able to buy tickets for the [Player Pot]() if you hold a PixelSweeper. Ticket sales will allow us to continue sweeping the floor indefinitely.
 
 Tickets will cost $1 each, and you will be able to purchase a maximum of 100 tickets for every PixelSweeper that you have.
 
