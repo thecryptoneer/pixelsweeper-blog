@@ -36,7 +36,7 @@ Ticket sales that contribute to sweeping the Pancake Squad floor will be used in
 
 1\. The first Pancake Squad swept from weekly ticket sales will always be used to replenish the Player Pot prizes.
 
-2\. The second Pancake Squad swept from weekly ticket sales will be used to replenish the Staker Pot prizes.
+2\. The second Pancake Squad swept from weekly ticket sales will be used to replenish the [Staker Pot](https://blog.pixelsweeper.com/2022/04/05/pixelsweeper-staker-pot-overview/ "Staker Pot Overview") prizes.
 
 3\. Any ticket sales that allow for more than two Pancake Squads to be swept in the same week will increase the number of Player Pot prizes that week.
 
@@ -44,11 +44,11 @@ So for example, if the 90% from ticket sales is enough to sweep three Pancake Sq
 
 If the 90% from ticket sales is enough to sweep ten Pancake Squads from the floor in that week, then there will be nine Pancake Squad prizes in that week’s Player Pot prize draw.
 
-Regardless of ticket sales, there will always be at least one weekly prize in the Player Pot and a prize in the Staker Pot. For example, if there was a week where we raised 3 BNB in ticket sales which was not enough to sweep the floor, we would replenish both pots with a Pancake Squad from The Vault.
+Regardless of ticket sales, there will always be at least one weekly prize in the Player Pot and a prize in the [Staker Pot](https://blog.pixelsweeper.com/2022/04/05/pixelsweeper-staker-pot-overview/ "Staker Pot Overview"). For example, if there was a week where we raised 3 BNB in ticket sales which was not enough to sweep the floor, we would replenish both pots with a Pancake Squad from The Vault.
 
 Any unused BNB from weekly ticket sales, such as the 3 BNB referenced above, will roll over to the following week and count toward that week’s sweeping efforts.
 
-**(Note: For our visual learners, click** [**here**](https://blog.pixelsweeper.com/2022/04/13/player-pot-scenarios/ "Player Pot Scenarios") **to view the Player Pot Scenarios blog, which includes graphics covering the 4 possible scenarios)**
+**(Note: For our visual learners, view the** [**Player Pot Scenarios blog**](https://blog.pixelsweeper.com/2022/04/13/player-pot-scenarios/ "Player Pot Scenario")**, which includes graphics covering the 4 possible scenarios)**
 
 ## **Player Pot Mechanics**
 
