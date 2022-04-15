@@ -35,6 +35,7 @@ fields:
   config:
     required: true
 pages:
+- docs/_posts/bonus-draws-overview.md
 - docs/_posts/pixelsweeper-player-pot-overview.md
 - docs/_posts/pixelsweeper-staker-pot-overview.md
 - docs/_posts/player-pot-scenarios.md
