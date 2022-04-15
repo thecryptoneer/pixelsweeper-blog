@@ -31,3 +31,5 @@ Before explaining the ticket sales scenarios, it’s important to first understa
 ### **Scenario Four - 3 or More Pancake Squad NFTs Swept**
 
 ![](/assets/img/3-swept.png)
+
+![](/assets/img/untitled-design-10.png)
