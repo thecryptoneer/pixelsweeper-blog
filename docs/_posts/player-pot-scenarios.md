@@ -14,7 +14,7 @@ link_preview_description: Here are the four potential scenarios that may occur b
 
 ### **The Vault**
 
-Before explaining the ticket sales scenarios, it’s important to first understand what The Vault is. The Vault is where the Pancake Squad NFTs that were swept with proceeds from the PixelSweeper mint will be stored. Squaddies will only be pulled from The Vault if enough tickets are not sold in a given week to replenish the Player Pot and/or the Staker Pot, as demonstrated below in scenario 1.
+Before explaining the ticket sales scenarios, it’s important to first understand what The Vault is. The Vault is where the Pancake Squad NFTs that were swept with proceeds from the PixelSweeper mint will be stored. Squaddies will only be pulled from The Vault if enough tickets are not sold in a given week to replenish the [Player Pot](https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/ "Player Pot Overview") and/or the [Staker Pot](https://blog.pixelsweeper.com/2022/04/05/pixelsweeper-staker-pot-overview/ "Staker Pot Overview"), as demonstrated below in scenario 1.
 
 ### **Scenario One - 0 Pancake Squad NFTs Swept**
 
