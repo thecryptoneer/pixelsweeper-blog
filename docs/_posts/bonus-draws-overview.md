@@ -50,7 +50,7 @@ Every time this 5% adds up to $10,000, we will hold a vote where PixelSweeper ho
 
 Note: Eventually PixelSweeper holders will also have an opportunity to vote on which NFTs will be purchased to be added to the primary PixelSweeper [Staker Pot](https://blog.pixelsweeper.com/2022/04/05/pixelsweeper-staker-pot-overview/ "Staker Pot Overview").
 
-## **Distribution of other BNB Chain collection NFTs** 
+## **Distribution of other BNB Chain collection NFTs**
 
 All of the non-Pancake Squad NFTs that are swept will be distributed to PixelSweeper holders who stake their Sweepers into the [Staker Pot](https://blog.pixelsweeper.com/2022/04/05/pixelsweeper-staker-pot-overview/ "Staker Pot Overview"), through our **Bonus Draws**. That means you won’t have to buy additional [Player Pot](https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/ "Player Pot Overview") tickets in order to have the chance to win NFTs from these other collections.
 
@@ -66,4 +66,4 @@ There will be multiple winners in the same draw for the Bonus Draws. To keep thi
 
 **_Follow us on Twitter at twitter.com/pixelsweeper to be first to see our articles. And join us on Telegram at t.me/pixelsweeper if you have any questions._**
 
-![](/assets/img/untitled-design-8.png)
+![](/assets/img/untitled-design-10.png)
