@@ -6,7 +6,7 @@
       itemtype="http://schema.org/Blog"
     >
       <article
-        v-for="page in pages"
+        v-for="page in pages.reverse()"
         :key="page.key"
         itemprop="blogPost"
         class="ui-post entry col-md-4 card-container"
