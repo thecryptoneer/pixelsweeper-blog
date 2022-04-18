@@ -1,11 +1,11 @@
 ---
 title: PixelSweeper Player Pot Scenarios
-date: 2022-04-13 21:00:00 +0200
-featuredimg: "/assets/img/player-pot-2.png"
+date: 2022-04-13T21:00:00.000+02:00
+featuredimg: "/assets/img/player-pot-scenarios.png"
 summary: Here are the four potential scenarios that may occur based on the weekly
   Player Pot ticket sales volume
 canonicalUrl: https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-scenarios/
-link_preview_img: "/assets/img/player-pot-2.png"
+link_preview_img: "/assets/img/player-pot-scenarios.png"
 link_preview_description: Here are the four potential scenarios that may occur based
   on the weekly Player Pot ticket sales volume
 
