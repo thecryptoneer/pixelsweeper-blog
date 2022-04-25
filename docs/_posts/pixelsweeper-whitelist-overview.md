@@ -22,7 +22,7 @@ There are 10,000 PixelSweepers in the collection. Each mint costs $100 in BNB, a
 
 There are still a few whitelist spots available, so read the full article to find out how to get yourself into the whitelist.
 
-**At the end of the Pre-Sale Period, we will be giving away one Pancake Squad NFT to one randomly selected pre-sale minter. (Note: You do not need to stake your pre-sale Sweepers for this Pre-sale Exclusive Giveaway. We will check all wallets to find the winner.)**
+**At the end of the Pre-Sale Period, we will be giving away one Pancake Squad NFT to one randomly selected pre-sale minter. (Note: You do not need to stake your pre-sale Sweepers for this pre-sale Exclusive Giveaway. We will check all wallets to find the winner.)**
 
 ## Pre-Sale Period: Whitelist
 
@@ -38,7 +38,7 @@ At the end of the pre-sale period we will reveal which PixelSweepers you have mi
 
 ## Pre-Sale Period: Galler Launch Pad
 
-During the pre-sale period - starting at 14:00 UTC on Tuesday 26 April - there will also be 250 PixelSweeper NFTs available on the [Galler.io Launchpad](https://www.galler.io/en/launchpad).
+During the Pre-Sale period - starting at 14:00 UTC on Tuesday 26 April - there will also be 250 PixelSweeper NFTs available on the [Galler.io Launchpad](https://www.galler.io/en/launchpad).
 
 Unlike the whitelist spots, the 250 Sweepers on Galler Launchpad **will** be first come, first serve. If you want to purchase PixelSweepers during the pre-sale period and you either don’t have a Whitelist spot, or you’ve used all of yours up and still want to purchase more Sweepers, then you can purchase through [Galler.io Launchpad](https://www.galler.io/en/launchpad), but you’ll need to be quick as there’s only 250 available to purchase through Galler.
 
@@ -96,7 +96,7 @@ If you don’t claim your Social Whitelist spot before the pre-sale, you will no
 
 The next group of Whitelist spots are being given to the holders of certain NFTs on BNB Chain. Below is a list of eligible NFTs.
 
-For every eligible NFT you have in your wallet (even if it is listed as a profile picture on PancakeSwap, or listed for sale on PancakeSwap or The Bull Society) you will get one NFT Holder Whitelist Spot.
+For every eligible NFT you have in your wallet (even if it is listed as a profile picture on Pancake Swap, or listed for sale on Pancake Swap or The Bull Society) you will get one NFT Holder Whitelist Spot.
 
 There are a few more hours before an on-chain snapshot will be taken to see who is eligible, so if you want to increase your Whitelist spots, we recommend purchasing any of the following NFTs:
 
@@ -187,25 +187,19 @@ For now, here's an example incorporating each of the Whitelist categories discus
 **Donald Duck is a huge BNB Chain NFT Maxi! Donald owns the following NFTs:**
 
 * Oddblox #211 and #480 **(2)**
-
-
 * BitPunks #75 **(1)**
-
-
 * Sweet Stacks Golden tickets #131 #132 and #411 **(3)**
-
-
 * Moon Walkers Club #221 and #898 (He registered by messaging @PixelSweeperWLBot) **(2)**
 
-Donald also was in the PancakeSquad Trade group and the Rareboard group when the WL announcement was made **(1)**
+Donald also was in the Pancake Squad Trade group and the Rareboard group when the WL announcement was made **(1)**
 
 Donald Duck can purchase 9 PixelSweepers during the Whitelist period
 
-### Still have questions? 
+### Still have questions?
 
 We are hosting an [AMA on Twitter Spaces at 16:00 UTC on April 25](https://twitter.com/PixelSweeper/status/1518387699979329543?s=20&t=mr6OEN1SAnfc6siv5Y3SdA), to answer questions there as well. Join us.
 
-Or, if you are utterly confused and can’t work out any of this Whitelist stuff, then okay too. You will be able to mint your PixelSweepers in the public sale starting 14:00 UTC on April 27. 
+Or, if you are utterly confused and can’t work out any of this Whitelist stuff, then okay too. You will be able to mint your PixelSweepers in the public sale starting 14:00 UTC on April 27.
 
 See you there!
 
