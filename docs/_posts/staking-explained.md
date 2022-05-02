@@ -22,7 +22,7 @@ Beginning Monday 9 May, we will begin selling tickets for our first [Player Pot]
 
 * **This week:**
 
-Staking begins - Monday 2 May 
+Staking begins - Monday 2 May
 
 First Staker Pot drawing - Friday 6 May
 
@@ -34,7 +34,7 @@ Player Pot & Staker Pot drawing - Friday 13 May
 
 * **Weekly Thereafter:**
 
-Weekly Ticket sales start each Monday 
+Weekly Ticket sales start each Monday
 
 Player and Staker pot drawings held each Friday
 
@@ -45,6 +45,8 @@ The time has come to stake your Sweepers.
 At 15:00 UTC, Monday 2 May, we will open up staking for your PixelSweepers. This article will introduce how to stake your Sweepers, why you would want to stake your Sweepers and what’s coming in the future for those people who stake.
 
 The process of staking your Sweepers is pretty simple.  Click [here](https://twitter.com/pixelsweeper/status/1521115296047800320?s=21&t=tVb5Dg1KMKHnMOyrrF4F7g) to watch a sample video or reference the screen shots below
+
+Note: To be safe, we recommend that you de-list any PixelSweepers from secondary marketplaces, if you intend to stake them.
 
 ![](/assets/img/photo_2022-05-02_09-50-14.jpg)
 
