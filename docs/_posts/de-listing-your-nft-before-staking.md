@@ -42,7 +42,7 @@ If you do this before or after the Prize Draw, your chances to win don’t chang
 
 \-This connection can be touchy. Sometimes you can click MetaMask and it will successfully connect, and other times it’s easier if you bring it up on your PC or Laptop, click the Wallet Connect, and then using MetaMask mobile, scan the barcode on your PC/Laptop screen with your mobile device to connect
 
-![](https://lh4.googleusercontent.com/NwF8o12JG1NTjfpdJ2POdxKRUulBUG4icBfQrcJDW3T-4aHZGJyIFrZvzVweNLL1V6NL-ghheanmdpCof3zBVawPyasd3FeYZo-TiP-PRA4uJbw2MY_IcihnwlK6vEmNyLSOxLlFSurEqnb-kg =624x72)
+![](/assets/img/connect-to-web3.png)
 
 3. **Once you are connected, scroll down to section 7 labeled “delistToken”**
 
@@ -52,13 +52,13 @@ If you do this before or after the Prize Draw, your chances to win don’t chang
 
 In the tokenID (unit256) field, enter the token ID of the token you wish to de-list
 
-![](https://lh6.googleusercontent.com/6CHiAO4l_wQPJuOXFaSme3vQjfOHhMvEoVRWEReYgwMYxK-XDUDJDWEJrunhk1scwNjjx0c6VZiYhvagcKAM89yfTpRFGIjv9qWrSD0-jxrsX-IfCPD5w2owWkgCNTCEMl5j0Ikjry4aA7J40w =624x123)
+![](/assets/img/de-list-your-sweeper.png)
 
-4. Check your transaction in your wallet on bscscan. Once you see that you have a successful transaction with a method of Delist Token, then you can safety unstake your NFT without worrying about it getting sniped for less than it’s worth
+4. **Check your transaction in your wallet on bscscan.** Once you see that you have a successful transaction with a method of Delist Token, then you can safety unstake your NFT without worrying about it getting sniped for less than it’s worth
 
 **NOTE:** If you’re unsure if you de-listed your PixelSweepers prior to Staking, follow the steps above anyway. If your Sweeper is already de-listed, you’ll get an internal json error as shown below and it will not allow you to proceed with the transaction.
 
-![](https://lh4.googleusercontent.com/m8NLb5vw00Wa0oPemFz8DbkR-P5jqhT4JXg5peaJy_d7OXdPPHvzORIvpu2QVcB4v12yRNxiORUIx7Ckb6C2kNJN9fFgb3vtYs63sJ83A_IgtNbvNFrZ6zTarcb-ep7sSrERFU2d6So3x7umjQ =624x125)
+![](/assets/img/json-error.png)
 
 ## Marketplace Listing Time Periods
 
