@@ -2,10 +2,10 @@
 title: PixelSweeper Project Summary
 date: 2022-03-29T00:00:00.000+02:00
 author: PixelSweeper
-featuredimg: "/assets/img/project.png"
+featuredimg: "/assets/img/forestry-graphics-4.png"
 link_preview_description: We'll be sweeping the floor on several BNB Chain NFT collections
   and redistributing those NFTs back to PixelSweeper holders.
-link_preview_img: "/assets/img/project.png"
+link_preview_img: "/assets/img/forestry-graphics-4.png"
 summary: We'll be sweeping the floor on several BNB Chain NFT collections and redistributing
   those NFTs back to PixelSweeper holders.
 canonicalUrl: https://blog.pixelsweeper.com/2022/03/29/project-summary-pixelsweeper/

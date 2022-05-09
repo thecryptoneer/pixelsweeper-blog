@@ -1,18 +1,18 @@
 ---
 title: Voting Nominations
 date: 2022-05-09 15:00:00 +0200
-featuredimg: "/assets/img/forestry-graphics-2.png"
+featuredimg: "/assets/img/nominations.png"
 summary: This article explains the rules and requirements for nominating your favorite
   BNB Chain NFT project to be swept by PixelSweeper
 canonicalUrl: https://blog.pixelsweeper.com/2022/05/09/voting-nominations/
-link_preview_img: "/assets/img/forestry-graphics-2.png"
+link_preview_img: "/assets/img/nominations.png"
 link_preview_description: This article explains the rules and requirements for nominating
   your favorite BNB Chain NFT project to be swept by PixelSweeper
 
 ---
 # Voting Nominations
 
-The second reason for staking your Sweeper will be to let you nominate and vote on the other BNB Chain NFT collections that PixelSweeper will be sweeping.
+The second reason for staking your Sweeper will be to let you nominate and vote on the other BNB Chain NFT collections that PixelSweeper will be sweeping. 
 
 Your staking for the first two weeks will not have any effect on your voting power, however after the second Staker Pot draw it will come into effect. We will release a separate article explaining this process in full, later this week.
 

@@ -1,13 +1,13 @@
 ---
 title: Bonus Draws Overview
-date: 2022-04-15 06:00:00 +0200
-featuredimg: "/assets/img/player-pot-3.png"
+date: 2022-04-15T06:00:00.000+02:00
+featuredimg: "/assets/img/bonus-draws-overview.png"
 summary: The BNB raised by PixelSweeper will not only be used to sweep the Pancake
   Squad floor.  5% of all funds generated from our PixelSweeper mint and ongoing Player
   Pot ticket sales will be used to sweep the floor of other BNB Chain NFT collections
   as well, as voted on by our PixelSweeper holders.
 canonicalUrl: https://blog.pixelsweeper.com/2022/04/15/pixelsweeper-bonus-draws-overview/
-link_preview_img: "/assets/img/player-pot-3.png"
+link_preview_img: "/assets/img/bonus-draws-overview.png"
 link_preview_description: The BNB raised by PixelSweeper will not only be used to
   sweep the Pancake Squad floor.  5% of all funds generated from our PixelSweeper
   mint and ongoing Player Pot ticket sales will be used to sweep the floor of other

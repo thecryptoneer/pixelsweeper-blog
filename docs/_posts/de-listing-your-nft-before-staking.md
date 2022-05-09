@@ -1,12 +1,12 @@
 ---
 title: De-Listing Your NFT Before Staking
 date: 2022-05-06 15:30:00 +0200
-featuredimg: "/assets/img/forestry-graphics-1.png"
+featuredimg: "/assets/img/de-listing.png"
 summary: 'Learn why you should de-list your NFT before staking, how to verify if you
   de-listed your NFTs, and if you didn’t, the steps you can take to de-list while
   your NFT is staked. '
 canonicalUrl: https://blog.pixelsweeper.com/2022/05/02/delisting-your-sweepers/
-link_preview_img: "/assets/img/forestry-graphics-1.png"
+link_preview_img: "/assets/img/de-listing.png"
 link_preview_description: 'Learn why you should de-list your NFT before staking, how
   to verify if you de-listed your NFTs, and if you didn’t, the steps you can take
   to de-list while your NFT is staked. '
