@@ -1,11 +1,11 @@
 ---
 title: Staking Explained
 date: 2022-05-02 16:00:00 +0200
-featuredimg: "/assets/img/forestry-graphics.png"
+featuredimg: "/assets/img/staking-explained.png"
 summary: " Learn how to stake your Sweepers, why you would want to stake your Sweepers
   and what’s coming in the future for those who stake"
 canonicalUrl: https://blog.pixelsweeper.com/2022/05/02/staking-explained/
-link_preview_img: "/assets/img/forestry-graphics.png"
+link_preview_img: "/assets/img/staking-explained.png"
 link_preview_description: " Learn how to stake your Sweepers, why you would want to
   stake your Sweepers and what’s coming in the future for those who stake"
 
