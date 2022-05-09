@@ -12,7 +12,7 @@ link_preview_description: This article explains the rules and requirements for n
 ---
 # Voting Nominations
 
-The second reason for staking your Sweeper will be to let you nominate and vote on the other BNB Chain NFT collections that PixelSweeper will be sweeping. 
+The second reason for staking your Sweeper will be to let you nominate and vote on the other BNB Chain NFT collections that PixelSweeper will be sweeping.
 
 Your staking for the first two weeks will not have any effect on your voting power, however after the second Staker Pot draw it will come into effect. We will release a separate article explaining this process in full, later this week.
 
@@ -24,7 +24,7 @@ In order to vote, you will need to have at least one 1 PixelSweeper staked in th
 
 For projects to qualify for nominations they must be NFT collections on BNBChain, and they must be available for trading on either PancakeSwap, NFTKey or The Bull Society marketplaces.
 
-If the project is not yet fully minted out, it can still be swept with the additional criteria that minting must be available via Rareboard and like the other eligible collections it must already be tradeable on PancakeSwap, NFTKey of the Bull Society.
+If the project is not yet fully minted out, it can still be swept with the additional criteria that minting must be available via Rareboard and like the other eligible collections it must already be tradeable on PancakeSwap, NFTKey or the Bull Society marketplaces.
 
 The Pancake Bunnies are an edge case for this system, but we don’t want to exclude them or their community from the chance to be nominated and swept.
 
