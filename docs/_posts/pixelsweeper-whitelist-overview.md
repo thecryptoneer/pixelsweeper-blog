@@ -1,13 +1,13 @@
 ---
 title: PixelSweeper Whitelist Overview
 date: 2022-04-25 17:00:00 +0200
-featuredimg: "/assets/img/player-pot-5.png"
+featuredimg: "/assets/img/forestry-graphics-5.png"
 summary: The PixelSweeper Pre-Sale period begins at 14:00 UTC on Tuesday 26 April.
   This article will explain how members can check how many whitelist spots they've
   accumulated so they know how many PixelSweeper NFTs they can purchase during the
   24 hour presale period
 canonicalUrl: https://blog.pixelsweeper.com/2022/04/06/pixelsweeper-whitelist-overview/
-link_preview_img: "/assets/img/player-pot-5.png"
+link_preview_img: "/assets/img/forestry-graphics-5.png"
 link_preview_description: The PixelSweeper Pre-Sale period begins at 14:00 UTC on
   Tuesday 26 April. This article will explain how members can check how many whitelist
   spots they've accumulated so they know how many PixelSweeper NFTs they can purchase
