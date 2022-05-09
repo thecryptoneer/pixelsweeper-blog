@@ -12,7 +12,7 @@ link_preview_description: A summary of frequently asked questions regarding the 
 ---
 # Voting Nominations FAQ
 
-The following is a summary of the frequently asked questions (FAQ) from our Voting Nominations blog found [here](https://aagwam0qpicu-g.instant.forestry.io/2022/05/09/voting-nominations/) 
+The following is a summary of the frequently asked questions (FAQ) from our Voting Nominations blog found [here](https://aagwam0qpicu-g.instant.forestry.io/2022/05/09/voting-nominations/)
 
 **Q. What is the difference between nominating a project and voting for a project?**
 
@@ -22,8 +22,8 @@ Once the list of nominated projects is final, then holders will be able to vote 
 
 **Q. How many PixelSweepers do we need to have staked in order to nominate a project for voting?**
 
-A. In order to nominate a project, you must have at least 10 PixelSweepers staked by 13:50 UTC on Friday May 13, which is when the snapshot will be taken to determine who is eligible to nominate.   
-  
+A. In order to nominate a project, you must have at least 10 PixelSweepers staked by 13:50 UTC on Friday May 13, which is when the snapshot will be taken to determine who is eligible to nominate.
+
 If you stake after the draw on Friday May 13, you will not be eligible to nominate.
 
 **Q. How many PixelSweepers do we need to have staked in order to vote for a project?**
@@ -46,7 +46,7 @@ A. For projects to qualify for nominations, they must be NFT collections on BNBC
 
 **Q. Can projects be nominated if they’re not minted out?**
 
-A. Yes they can, as long as minting is available via Rareboard and like the other eligible collections, it must already be tradeable on PancakeSwap, NFTKey of the Bull Society
+A. Yes they can, as long as minting is available via Rareboard and like the other eligible collections, it must already be tradeable on PancakeSwap, NFTKey or the Bull Society marketplaces.
 
 **Q. Can we nominate PixelSweeper?**
 
