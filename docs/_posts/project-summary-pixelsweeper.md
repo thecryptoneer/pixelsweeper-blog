@@ -1,5 +1,5 @@
 ---
-title: PixelSweeper Project Summary
+title: PixelSweeper Project Overview
 date: 2022-03-29T00:00:00.000+02:00
 author: PixelSweeper
 featuredimg: "/assets/img/forestry-graphics-4.png"
@@ -8,7 +8,7 @@ link_preview_description: We'll be sweeping the floor on several BNB Chain NFT c
 link_preview_img: "/assets/img/forestry-graphics-4.png"
 summary: We'll be sweeping the floor on several BNB Chain NFT collections and redistributing
   those NFTs back to PixelSweeper holders.
-canonicalUrl: https://blog.pixelsweeper.com/2022/03/29/project-summary-pixelsweeper/
+canonicalUrl: https://blog.pixelsweeper.com/2022/03/29/project-overview-pixelsweeper/
 
 ---
 PixelSweepers is a set of 10,000 ERC721 3D NFTs on BNB Chain.
