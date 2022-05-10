@@ -32,23 +32,18 @@ Every time the 5% from ticket sales reaches $10,000, a new vote will be held for
 
 ## **Topping Up the Pots**
 
-Ticket sales that contribute to sweeping the Pancake Squad floor will be used in the following way:
+The Pancake Squad NFTs swept from ticket sale revenue will be used as prizes for the Player Pot.
 
-1\. The first Pancake Squad swept from weekly ticket sales will always be used to replenish the Player Pot prizes.
+So for example, if the 90% from ticket sales is enough to sweep three Pancake Squads from the floor in that week, then there will be three Pancake Squad prizes in that week’s Player Pot prize draw.
 
-2\. The second Pancake Squad swept from weekly ticket sales will be used to replenish the [Staker Pot](https://blog.pixelsweeper.com/2022/04/05/pixelsweeper-staker-pot-overview/ "Staker Pot Overview") prizes.
+If the 90% from ticket sales is enough to sweep ten Pancake Squads from the floor in that week, then there will be ten Pancake Squad prizes in that week’s Player Pot prize draw.
 
-3\. Any ticket sales that allow for more than two Pancake Squads to be swept in the same week will increase the number of Player Pot prizes that week.
-
-So for example, if the 90% from ticket sales is enough to sweep three Pancake Squads from the floor in that week, then there will be two Pancake Squad prizes in that week’s Player Pot prize draw.
-
-If the 90% from ticket sales is enough to sweep ten Pancake Squads from the floor in that week, then there will be nine Pancake Squad prizes in that week’s Player Pot prize draw.
-
-Regardless of ticket sales, there will always be at least one weekly prize in the Player Pot and a prize in the [Staker Pot](https://blog.pixelsweeper.com/2022/04/05/pixelsweeper-staker-pot-overview/ "Staker Pot Overview"). For example, if there was a week where we raised 3 BNB in ticket sales which was not enough to sweep the floor, we would replenish both pots with a Pancake Squad from The Vault.
+Regardless of ticket sales, there will always be at least one weekly prize in the Player Pot and a separate prize in the[ Staker Pot](https://blog.pixelsweeper.com/2022/04/05/pixelsweeper-staker-pot-overview/). For example, if there was a week where we raised 3 BNB in ticket sales which was not enough to sweep the floor, there will still be a prize for the Player Pot and a separate prize for the Staker Pot.
 
 Any unused BNB from weekly ticket sales, such as the 3 BNB referenced above, will roll over to the following week and count toward that week’s sweeping efforts.
 
-## **Player Pot Mechanics**
+##   
+**Player Pot Mechanics**
 
 The Player Pot mechanics will work in a similar way to how Moonpot works.
 
