@@ -32,7 +32,7 @@ Just remember, the more tickets you purchase, the greater your chances are of wi
 
 ## Where, How and When to Buy Tickets
 
-Beginning on Tuesday 10 May, you can begin purchasing Player Pot Tickets through PixelSweeper.com, using BUSD or BNB (Note: Purchases made using BNB will automatically be swapped for BUSD as the tickets will be stored in BUSD).
+Beginning on Tuesday 10 May, you can begin purchasing Player Pot Tickets through PixelSweeper.com using BUSD.
 
 Tickets do not need to be purchased all at once, nor do they need to be purchased in any specific denomination. If you decide to purchase 50 tickets the first day, 30 tickets the second day and 20 tickets the next day, that’s up to you.
 
