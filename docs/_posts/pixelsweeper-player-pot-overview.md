@@ -42,8 +42,7 @@ Regardless of ticket sales, there will always be at least one weekly prize in th
 
 Any unused BNB from weekly ticket sales, such as the 3 BNB referenced above, will roll over to the following week and count toward that week’s sweeping efforts.
 
-##   
-**Player Pot Mechanics**
+## **Player Pot Mechanics**
 
 The Player Pot mechanics will work in a similar way to how Moonpot works.
 
@@ -53,7 +52,7 @@ The main difference with the Player Pot, though, is that you will need to purcha
 
 Whoever has a winning ticket will automatically receive one of the Swept NFTs. We’ll also announce on Twitter which wallet had a winning ticket, what NFT they won, and a link to the BSCscan transaction so that you can see everything on-chain.
 
-### **Will we really be sweeping close to $1 Million a week?**
+## **Will we really be sweeping close to $1 Million a week?**
 
 In all likelihood, no.
 
@@ -63,7 +62,7 @@ If only a handful of PixelSweeper holders take a chance and get $100 worth of ti
 
 On the flipside, if thousands of Sweeper holders buy tickets in the same week then more Pancake Squad prizes are going to be added to the draw. So your chances to win won’t fall dramatically simply because other Sweeper holders want to play.
 
-### **What if I want to win without having tickets?**
+## **What if I want to win without having tickets?**
 
 We understand that some PixelSweeper holders won’t want to purchase tickets, or maybe they can’t afford to play in each week’s Player Pot. As long as you stake your Sweeper into the [Staker Pot](https://blog.pixelsweeper.com/2022/04/06/pixelsweeper-staker-pot-overview/ "Staker Pot Article"), you will have the chance to win an NFT for free.
 
