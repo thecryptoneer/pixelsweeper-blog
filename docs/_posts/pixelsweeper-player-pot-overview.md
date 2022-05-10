@@ -1,12 +1,12 @@
 ---
 title: PixelSweeper Player Pot Overview
 date: 2022-04-13T21:00:00.000+02:00
-featuredimg: "/assets/img/player-pot-overview.png"
+featuredimg: "/assets/img/forestry-graphics-10.png"
 summary: The Player Pot gives holders an additional chance to win an NFT every week
   by buying tickets. The sale of tickets will allow PixelSweeper to continue sweeping
   NFT floors indefinitely.
 canonicalUrl: https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/
-link_preview_img: "/assets/img/player-pot-overview.png"
+link_preview_img: "/assets/img/forestry-graphics-10.png"
 link_preview_description: The Player Pot gives holders an additional chance to win
   an NFT every week by buying tickets. The sale of tickets will allow PixelSweeper
   to continue sweeping NFT floors indefinitely.
@@ -48,7 +48,7 @@ Regardless of ticket sales, there will always be at least one weekly prize in th
 
 Any unused BNB from weekly ticket sales, such as the 3 BNB referenced above, will roll over to the following week and count toward that week’s sweeping efforts.
 
-**(Note: For our visual learners, view the** [**Player Pot Scenarios blog**](https://blog.pixelsweeper.com/2022/04/13/player-pot-scenarios/ "Player Pot Scenario")**, which includes graphics covering the 4 possible scenarios)**
+**(Note: For our visual learners, view the** **Player Pot Scenarios graphics at the bottom of this article, which includes graphics of the 4 possible scenarios)**
 
 ## **Player Pot Mechanics**
 
@@ -76,6 +76,26 @@ We understand that some PixelSweeper holders won’t want to purchase tickets, o
 
 The more people that play in the Player Pot each week, though, the longer we will be sustainably sweeping NFT floors on BNBChain.
 
-**_Follow us on Twitter at twitter.com/pixelsweeper to be first to see our articles. And join us on Telegram at t.me/pixelsweeper if you have any questions._**
+## **Player Pot Scenarios**
+
+### **The Vault**
+
+Before explaining the ticket sales scenarios, it’s important to first understand what The Vault is. The Vault is where the Pancake Squad NFTs that were swept with proceeds from the PixelSweeper mint will be stored. Squaddies will only be pulled from The Vault if enough tickets are not sold in a given week to replenish the [Player Pot](https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/ "Player Pot Overview") and/or the [Staker Pot](https://blog.pixelsweeper.com/2022/04/05/pixelsweeper-staker-pot-overview/ "Staker Pot Overview"), as demonstrated below in scenario 1.
+
+### **Scenario One - Zero Pancake Squad NFTs Swept**
+
+![](/assets/img/0-swept.png)
+
+### **Scenario Two - One Pancake Squad NFT Swept**
+
+![](/assets/img/1-swept.png)
+
+### **Scenario Three - Two Pancake Squad NFTs Swept**
+
+![](/assets/img/2-swept.png)
+
+### **Scenario Four - Three or More Pancake Squad NFTs Swept**
+
+![/assets/img/3-swept.png](https://app.forestry.io/sites/aagwam0qpicu-g/body-media//assets/img/3-swept.png)
 
 ![](/assets/img/untitled-design-10.png)
