@@ -42,13 +42,11 @@ You will have from Tuesday 10 May until the drawing takes place at 14:00 on Frid
 
 Now that you’ve bought your Player Pot tickets, let the game theory begin. The more tickets that are sold each week, the more NFTs will be swept, which means more prizes are distributed and won that week.
 
-Regardless of ticket sales, there will always be at least one winner of a Pancake Squad NFT from the Player Pot. The current floor for these NFTs is close to 17 BNB, or around $6000 as of the time of this article.
+Regardless of ticket sales, there will always be at least one winner of a Pancake Squad NFT from the Player Pot. The current floor for these NFTs is close to 15 BNB as of the time of this article.
 
 If only a handful of PixelSweeper holders take a chance and get $100 worth of tickets each, then the chances of those players winning is extremely high in return for the low cost of the tickets.
 
 On the flipside, if thousands of Sweeper holders buy tickets in the same week then more Pancake Squad prizes are going to be added to that week’s Player Pot draw. So your chances to win won’t fall dramatically simply because other Sweeper holders want to play.
-
-To review the various Player Pot scenarios we could encounter each week based on the amount of tickets sold, please refer to the Player Pot Overview blog found [here](https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/)
 
 ## **You will Lose Your Tickets if you Unstake**
 
@@ -60,5 +58,4 @@ For example, if you have 10 Sweepers staked and you purchase 1,000 tickets on Tu
 
 On the other hand, if you have 50 Sweepers staked and you purchase 300 tickets, you can unstake 47 of your Sweepers without losing any tickets.
 
-  
 ![](/assets/img/untitled-design-10.png)
