@@ -1,12 +1,12 @@
 ---
 title: Staker Pot Overview
 date: 2022-04-06T00:00:00.000+02:00
-featuredimg: "/assets/img/new-staker-pot-overview.png"
+featuredimg: "/assets/img/staker-pot_overview.png"
 summary: By staking your PixelSweeper NFT on pixelsweeper.com, you’re automatically
   entered into the weekly Staker Pot drawing for each Sweeper you’ve staked.  The
   winning Sweeper will automatically receive one of the Swept NFTs
 canonicalUrl: https://blog.pixelsweeper.com/2022/04/05/pixelsweeper-staker-pot-overview/
-link_preview_img: "/assets/img/new-staker-pot-overview.png"
+link_preview_img: "/assets/img/staker-pot_overview.png"
 link_preview_description: By staking your PixelSweeper NFT on pixelsweeper.com, you’re
   automatically entered into the weekly Staker Pot drawing for each Sweeper you’ve
   staked.  The winning Sweeper will automatically receive one of the Swept NFTs
