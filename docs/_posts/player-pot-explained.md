@@ -1,13 +1,13 @@
 ---
 title: Player Pot SWPR Guide
 date: 2022-05-10 15:40:00 +0200
-featuredimg: "/assets/img/forestry-graphics-9.png"
+featuredimg: "/assets/img/player-pot-swpr_guide.png"
 summary: 'Now that you’ve got your Sweepers staked, you’re eligible to purchase tickets
   for the weekly Player Pot drawings.  Learn where, how and when you can purchase
   tickets, how many you can purchase, and what to expect once you’ve secured your
   weekly tickets. '
 canonicalUrl: https://blog.pixelsweeper.com/2022/05/10/player-pot-swpr-guide/
-link_preview_img: "/assets/img/forestry-graphics-9.png"
+link_preview_img: "/assets/img/player-pot-swpr_guide.png"
 link_preview_description: 'Now that you’ve got your Sweepers staked, you’re eligible
   to purchase tickets for the weekly Player Pot drawings.  Learn where, how and when
   you can purchase tickets, how many you can purchase, and what to expect once you’ve
