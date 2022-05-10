@@ -50,4 +50,15 @@ On the flipside, if thousands of Sweeper holders buy tickets in the same week th
 
 To review the various Player Pot scenarios we could encounter each week based on the amount of tickets sold, please refer to the Player Pot Overview blog found [here](https://blog.pixelsweeper.com/2022/04/13/pixelsweeper-player-pot-overview/)
 
+## **You will Lose Your Tickets if you Unstake**
+
+Once your Sweepers are staked and your tickets are purchased, it is very important that you do not unstake your sweepers until after that week's drawing.
+
+For every 100 tickets you have purchased, you need to keep one Sweeper staked. If you unstake more Sweepers than you have bought tickets with, you will lose those tickets, and you won’t get the BUSD back.
+
+For example, if you have 10 Sweepers staked and you purchase 1,000 tickets on Tuesday, and the next day you unstake 9 of your Sweepers, you will lose 900 tickets for that week's drawing.
+
+On the other hand, if you have 50 Sweepers staked and you purchase 300 tickets, you can unstake 47 of your Sweepers without losing any tickets.
+
+  
 ![](/assets/img/untitled-design-10.png)
