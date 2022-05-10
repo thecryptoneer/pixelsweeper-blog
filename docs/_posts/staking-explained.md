@@ -1,11 +1,11 @@
 ---
 title: Staking SWPR Guide
 date: 2022-05-02 16:00:00 +0200
-featuredimg: "/assets/img/new-staking-swpr-guide.png"
+featuredimg: "/assets/img/staking-swpr_guide.png"
 summary: " Learn how to stake your Sweepers, why you would want to stake your Sweepers
   and what’s coming in the future for those who stake"
 canonicalUrl: https://blog.pixelsweeper.com/2022/05/02/staking-explained/
-link_preview_img: "/assets/img/new-staking-swpr-guide.png"
+link_preview_img: "/assets/img/staking-swpr_guide.png"
 link_preview_description: " Learn how to stake your Sweepers, why you would want to
   stake your Sweepers and what’s coming in the future for those who stake"
 
