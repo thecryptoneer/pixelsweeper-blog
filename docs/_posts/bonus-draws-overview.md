@@ -1,13 +1,13 @@
 ---
 title: Community Vault Overview
 date: 2022-04-15T06:00:00.000+02:00
-featuredimg: "/assets/img/community-vault-overview.png"
+featuredimg: "/assets/img/community-vault_overview.png"
 summary: The BNB raised by PixelSweeper will not only be used to sweep the Pancake
   Squad floor.  5% of all funds generated from our PixelSweeper mint and ongoing Player
   Pot ticket sales will be used to sweep the floor of other BNB Chain NFT collections
   as well, as voted on by our PixelSweeper holders.
 canonicalUrl: https://blog.pixelsweeper.com/2022/04/15/community-vault-overview/
-link_preview_img: "/assets/img/community-vault-overview.png"
+link_preview_img: "/assets/img/community-vault_overview.png"
 link_preview_description: The BNB raised by PixelSweeper will not only be used to
   sweep the Pancake Squad floor.  5% of all funds generated from our PixelSweeper
   mint and ongoing Player Pot ticket sales will be used to sweep the floor of other
