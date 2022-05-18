@@ -28,11 +28,13 @@ If you stake after the draw on Friday May 13, you will not be eligible to nomina
 
 **Q. How many PixelSweepers do we need to have staked in order to vote for a project?**
 
-A. In order to vote, you will need to have at least one PixelSweeper staked. The voting power snapshot will be taken at 13:50 UTC on the Friday before the Monday vote.  All the Sweepers you have staked will count toward the same project.
+A. In order to vote, you will need to have at least one PixelSweeper staked. The voting power snapshot will be taken at 13:50 UTC on the Friday before the Monday vote.  In order to get the maximum time bonus, you will need to have them staked by 14:00 UTC on the Monday before the snapshot.  See the Time Bonus FAQ located [here](https://blog.pixelsweeper.com/2022/05/16/rarity-staking-weights-faq/) for more details on how the time bonus is calculated.
 
 **Q. What if I want to split my votes and vote for more than one project?**
 
-A. If you wish to nominate or vote for more than one project, you will need to have your Sweepers split across multiple wallets.
+A. All of the Sweepers you have staked in your wallet will count toward the same project.
+
+If you wish to nominate or vote for more than one project, you will need to have your Sweepers split across multiple wallets.
 
 **Q. When will the snapshot be taken to determine who has the 10 Sweepers required to nominate a project?**
 
@@ -53,6 +55,8 @@ A. The PixelSweeper collection itself is excluded from nominations. This is beca
 **Q. Will Sweeper rarity and the length of time my Sweepers are staked be a factor?**
 
 A. The rarity of your Sweeper, and the length of time that you have it staked in the week preceding a vote will have the same impact on your voting power as it does on your chances to win. This means that the community members that are most invested in PixelSweeper will have the largest impact on the collections that we will sweep.
+
+See the Time Bonus FAQ located [here]() for more information on how length of staking and Sweeper rarity will be factored.
 
 **Q. When will the nomination process and voting begin?**
 
