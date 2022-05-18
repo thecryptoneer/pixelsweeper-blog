@@ -28,9 +28,7 @@ If you stake after the draw on Friday May 13, you will not be eligible to nomina
 
 **Q. How many PixelSweepers do we need to have staked in order to vote for a project?**
 
-A. In order to vote, you will need to have at least one PixelSweeper staked. The voting power snapshot will be taken at 13:50 UTC on Friday May 20th, and voting will begin on Monday May 23.
-
-When you vote for a collection, all the Sweepers you have staked will count toward the same project.
+A. In order to vote, you will need to have at least one PixelSweeper staked. The voting power snapshot will be taken at 13:50 UTC on the Friday before the Monday vote.  All the Sweepers you have staked will count toward the same project.
 
 **Q. What if I want to split my votes and vote for more than one project?**
 
@@ -58,7 +56,7 @@ A. The rarity of your Sweeper, and the length of time that you have it staked in
 
 **Q. When will the nomination process and voting begin?**
 
-A. The nomination process will begin on Monday May 16. Voting will take place on Monday May 23
+A. The nomination process will begin on Monday May 16. Voting will take place soon thereafter.
 
 **Q. Where can I find out more about the nomination process?**
 
