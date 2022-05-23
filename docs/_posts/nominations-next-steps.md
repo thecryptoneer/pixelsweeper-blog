@@ -1,6 +1,6 @@
 ---
 title: Nominations Next Steps
-date: 2022-05-23 19:15:00 +0200
+date: 2022-05-23 19:13:00 +0200
 featuredimg: "/assets/img/forestry-graphics-4.png"
 summary: This article will provide important updates and dates specific to the Nominations
   and Voting for the Community Vault collections
