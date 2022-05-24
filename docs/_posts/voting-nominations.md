@@ -18,7 +18,7 @@ Your staking for the first two weeks will not have any effect on your voting pow
 
 In order to nominate a project you will need to have at least 10 PixelSweepers staked in the week preceding the opening of nominations on Monday 16 May at 14:00 UTC. They must still be in your wallet when the nominations open.
 
-In order to vote, you will need to have at least one 1 PixelSweeper staked in the week preceding the opening of voting on Monday 23 May at 14:00 UTC. Voting will last one week, more details on voting will be published closer to the time.
+In order to vote, you will need to have at least one 1 PixelSweeper staked in the week preceding the opening of voting. Voting will last one week.  More details on voting will be published closer to the time.
 
 ## Project Eligibility for Nominations
 
@@ -38,7 +38,7 @@ Although it is slightly arbitrary, we are implementing the following rules for P
 
 The PixelSweeper collection itself is excluded from nominations. This is because we want to support the entire BNB Chain ecosystem and get as many different communities excited about what we are doing with our Sweepers.
 
-At the end of the nomination period we will review the nominated collections for eligibility, publicize the list of successfully nominated projects and open up voting for all the collections on May 23 at 14:00 UTC.
+At the end of the nomination period we will review the nominated collections for eligibility, publicize the list of successfully nominated projects and announce the date that voting will open.
 
 ### Splitting your votes
 
