@@ -3,6 +3,7 @@ const path = require('path')
 const pick = require('lodash/pick')
 
 module.exports = (themeConfig) => {
+  console.log({ themeConfig })
   /**
    * Default theme configuration
    */
@@ -46,7 +47,7 @@ module.exports = (themeConfig) => {
       // },
     ],
     globalPagination: {
-      lengthPerPage: 6,
+      lengthPerPage: 100,
     },
   }
 
@@ -54,8 +55,8 @@ module.exports = (themeConfig) => {
   const isFeedEnabled = themeConfig.feed && themeConfig.feed.canonical_base
   if (isFeedEnabled) {
     const {
-      rss = true,
-      atom = true,
+      rss = false,
+      atom = false,
       json = true,
       ...feedOptions
     } = themeConfig.feed

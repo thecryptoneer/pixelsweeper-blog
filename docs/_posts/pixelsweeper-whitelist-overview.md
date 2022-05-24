@@ -12,7 +12,7 @@ link_preview_description: The PixelSweeper Pre-Sale period begins at 14:00 UTC o
   Tuesday 26 April. This article will explain how members can check how many whitelist
   spots they've accumulated so they know how many PixelSweeper NFTs they can purchase
   during the 24 hour presale period
-
+category: 'overview'
 ---
 # PixelSweeper Whitelist Overview
 
@@ -170,7 +170,7 @@ Whichever number of spots you choose to claim, between 1 and 3, you must hold th
 
 Here is the message you will need to DM to the bot:
 
-/claimWL <ContractAddress> <UserAddress> <amountOfWL>
+/claimWL &lt;ContractAddress&gt; &lt;UserAddress&gt; &lt;amountOfWL&gt;
 
 Example using the Ape Hero’s Contract Address:
 

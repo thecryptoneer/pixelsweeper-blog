@@ -23,5 +23,15 @@ fields:
   label: link_preview_description
   config:
     required: true
+- type: text
+  name: display_id
+  label: display_id
+  config:
+    required: true
+- type: text
+  name: category
+  label: category
+  config:
+    required: true
 pages:
 - docs/about.md

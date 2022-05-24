@@ -8,7 +8,7 @@ canonicalUrl: https://blog.pixelsweeper.com/2022/05/02/staking-explained/
 link_preview_img: "/assets/img/staking-swpr_guide.png"
 link_preview_description: " Learn how to stake your Sweepers, why you would want to
   stake your Sweepers and what’s coming in the future for those who stake"
-
+category: 'swpr-guide'
 ---
 # Staking SWPR Guide
 

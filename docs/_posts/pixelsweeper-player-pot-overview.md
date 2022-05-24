@@ -10,6 +10,7 @@ link_preview_img: "/assets/img/player-pot_overview.png"
 link_preview_description: The Player Pot gives holders an additional chance to win
   an NFT every week by buying tickets. The sale of tickets will allow PixelSweeper
   to continue sweeping NFT floors indefinitely.
+category: 'overview'
 
 ---
 # **How will the Player Pot work?**

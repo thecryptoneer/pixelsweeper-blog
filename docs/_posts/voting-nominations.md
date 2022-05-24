@@ -8,7 +8,7 @@ canonicalUrl: https://blog.pixelsweeper.com/2022/05/09/voting-nominations/
 link_preview_img: "/assets/img/nominations_overview.png"
 link_preview_description: This article explains the rules and requirements for nominating
   your favorite BNB Chain NFT project to be swept by PixelSweeper
-
+category: 'overview'
 ---
 # Voting Nominations Overview
 

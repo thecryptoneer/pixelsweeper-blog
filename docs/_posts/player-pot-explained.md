@@ -12,6 +12,7 @@ link_preview_description: 'Now that you’ve got your Sweepers staked, you’re 
   to purchase tickets for the weekly Player Pot drawings.  Learn where, how and when
   you can purchase tickets, how many you can purchase, and what to expect once you’ve
   secured your weekly tickets. '
+category: 'swpr-guide'
 
 ---
 # Player Pot Explained

@@ -8,7 +8,7 @@ canonicalUrl: https://blog.pixelsweeper.com/2022/05/09/voting-nominations-FAQ/
 link_preview_img: "/assets/img/nominations_faq.png"
 link_preview_description: A summary of frequently asked questions regarding the voting
   nominations process
-
+category: 'faq'
 ---
 # Voting Nominations FAQ
 

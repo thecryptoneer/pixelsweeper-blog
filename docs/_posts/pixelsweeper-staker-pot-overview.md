@@ -10,7 +10,7 @@ link_preview_img: "/assets/img/staker-pot_overview.png"
 link_preview_description: By staking your PixelSweeper NFT on pixelsweeper.com, you’re
   automatically entered into the weekly Staker Pot drawing for each Sweeper you’ve
   staked.  The winning Sweeper will automatically receive one of the Swept NFTs
-
+category: 'overview'
 ---
 # **How will the Staker Pot work?**
 
