@@ -32,6 +32,6 @@ fields:
   name: category
   label: category
   config:
-    required: true
+    required: false
 pages:
 - docs/about.md

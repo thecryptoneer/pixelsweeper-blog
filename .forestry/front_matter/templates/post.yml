@@ -34,6 +34,11 @@ fields:
   label: link_preview_description
   config:
     required: true
+- type: text
+  name: category
+  label: category
+  config:
+    required: false
 pages:
 - docs/_posts/bonus-draws-overview.md
 - docs/_posts/de-listing-your-nft-before-staking.md

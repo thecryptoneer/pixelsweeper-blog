@@ -8,7 +8,7 @@ canonicalUrl: https://blog.pixelsweeper.com/2022/05/23/nominations-next-steps/
 link_preview_img: "/assets/img/forestry-graphics-4.png"
 link_preview_description: This article will provide important updates and dates specific
   to the Nominations and Voting for the Community Vault collections
-
+category: 'faq'
 ---
 # Nominations Next Steps
 

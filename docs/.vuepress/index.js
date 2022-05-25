@@ -3,7 +3,7 @@ const path = require('path')
 module.exports = (options, ctx) => {
   const { themeConfig, siteConfig } = ctx
 
-  console.log({siteConfig});
+  // console.log({siteConfig});
 
   return {
     plugins: [

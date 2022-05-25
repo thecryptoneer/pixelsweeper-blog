@@ -3,7 +3,7 @@ const path = require('path')
 const pick = require('lodash/pick')
 
 module.exports = (themeConfig) => {
-  console.log({ themeConfig })
+  // console.log({ themeConfig })
   /**
    * Default theme configuration
    */
