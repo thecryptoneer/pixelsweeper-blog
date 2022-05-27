@@ -87,11 +87,11 @@ That’s why today you will get a Ghost Sweeper in your wallet for all your stak
 
 Secondly, we are going to run three extra retroactive Staker Pot draws next week.
 
-One on Tuesday 7 June
+One on Tuesday 31 May
 
-One on Wednesday 8 June
+One on Wednesday 1 June
 
-One on Thursday 9 June
+One on Thursday 2 June
 
 These retroactive Staker Pot draws will be based on snapshots taken at the exact block of each of the draws which had the incorrect rarity power formula, but this time with the correct formula implemented.
 
