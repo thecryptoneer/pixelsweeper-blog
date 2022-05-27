@@ -101,11 +101,11 @@ You don’t need to do anything.
 
 We have all the on-chain data to allow us to retroactively run these three extra draws.
 
-The draw on Tuesday 7 June, will use the snapshot taken for the Staker Pot draw on May 6.
+The draw on Tuesday 31 May, will use the snapshot taken for the Staker Pot draw on May 6.
 
-The draw on Wednesday 8 June, will use the snapshot taken for the Staker Pot draw on May 13.
+The draw on Wednesday 1 June, will use the snapshot taken for the Staker Pot draw on May 13.
 
-The draw on Thursday 9 June, will use the snapshot taken for the Staker Pot draw on May 20.
+The draw on Thursday 2 June, will use the snapshot taken for the Staker Pot draw on May 20.
 
 Each retroactive Staker Pot draw will use the same Chainlink VRF process, and will be verifiable onchain. We will exclude team member wallets from all three of the retroactive draws, so that we cannot be accused of foul play.
 
