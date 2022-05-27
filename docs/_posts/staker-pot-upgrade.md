@@ -8,7 +8,7 @@ canonicalUrl: https://blog.pixelsweeper.com/2022/05/27/staker-pot-upgrade/
 link_preview_img: "/assets/img/forestry-graphics-5.png"
 link_preview_description: This article explains why we had to upgrade the Staker Pot,
   what’s changing and what will happen in the next week.
-category: ''
+category: FAQ
 
 ---
 # **Staker Pot Upgrade**
