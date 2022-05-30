@@ -15,9 +15,21 @@ category: overview
 
 This article will provide important updates and dates specific to the Nominations and Voting for the Community Vault collections.
 
-## Full Voting Power Staking Deadline & Snapshot
+There will be three winning collections. Each of these collections will be swept with BNB raised from the original mint of PixelSweeper.
 
-In order to ensure you get full voting power, you will need to have your Sweepers staked by **14:00 UTC on Monday May 30**.
+First Place will get a $25,000 Sweep
+
+Second Place will get a $15,000 Sweep
+
+Third Place will get a $10,000 Sweep
+
+## Voting Power Time Bonus
+
+Every Sweeper that you have staked will contribute to your voting power. There is no minimum, you can vote with as little as one Sweeper, as long you have it staked before the snapshot.
+
+The Time Bonus that is used to calculate your chances of winning the Staker Pot draw, is the same for voting.
+
+In order to ensure you get full voting power, you will need to have your Sweepers staked by **14:00 UTC on Monday May 30**. The longer you leave it before the snapshot, the less voting power you will end up with.
 
 The voting power snapshot will be taken at **13:50 UTC on Friday June 3rd**.
 
