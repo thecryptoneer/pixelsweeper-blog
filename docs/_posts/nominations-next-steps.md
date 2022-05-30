@@ -2,7 +2,7 @@
 title: Voting Overview
 date: 2022-05-23T19:13:00.000+02:00
 featuredimg: "/assets/img/voting-overview.png"
-summary: This article will provide important updates and dates specific to the Voting
+summary: This article will provide important updates and dates specific to Voting
   for the Community Vault collections
 canonicalUrl: https://blog.pixelsweeper.com/2022/05/23/nominations-next-steps/
 link_preview_img: "/assets/img/voting-overview.png"
@@ -13,7 +13,7 @@ category: overview
 ---
 # Voting Next Steps
 
-This article will provide important updates and dates specific to the Nominations and Voting for the Community Vault collections.
+This article provides important updates and dates specific to Voting for the Community Vault collections.
 
 There will be three winning collections. Each of these collections will be swept with BNB raised from the original mint of PixelSweeper.
 
