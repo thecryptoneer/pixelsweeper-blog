@@ -1,6 +1,6 @@
 ---
 title: PixelSweeper Integrates Chainlink VRF
-date: 2022-06-10 16:00:00 +0200
+date: 2022-06-10 12:00:00 +0200
 featuredimg: "/assets/img/partnership-announcement-template-800-x-418-px.png"
 summary: PixelSweeper Integrates Chainlink VRF To Help Power Player and Staker Lucky
   Draws
@@ -15,7 +15,7 @@ category: overview
 
 We’re excited to announce that PixelSweeper—a collection of ERC721 3D NFTs—has integrated [Chainlink Verifiable Random Function (VRF)](https://chain.link/solutions/chainlink-vrf) on BNB Chain mainnet.
 
-By integrating the industry-leading decentralized oracle network, we have access to a tamper-proof and auditable source of randomness needed to help select the weekly winners of the PixelSweeper Player and Staker Pot drawings. Rewards include NFTs from Pancake Squad and other BNB Chain NFT collections.
+By integrating the industry-leading decentralized oracle network, we have access to a tamper-proof and auditable source of randomness needed to help select the weekly winners of the PixelSweeper Player and Staker Pot drawings. Rewards include NFTs from Pancake Squad and other BNB Chain NFT collections. 
 
 Ultimately this creates a more exciting and transparent user experience, as users can independently verify the random selection process from each week's drawings for high assurances that winners were decided in a provably fair manner.
 
