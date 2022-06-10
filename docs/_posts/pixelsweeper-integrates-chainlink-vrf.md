@@ -4,7 +4,7 @@ date: 2022-06-10 16:00:00 +0200
 featuredimg: "/assets/img/partnership-announcement-template-800-x-418-px.png"
 summary: PixelSweeper Integrates Chainlink VRF To Help Power Player and Staker Lucky
   Draws
-canonicalUrl: https://blog.pixelsweeper.com/2022/04/05/pixelsweeper-integrates-chainlink-vrf/
+canonicalUrl: https://blog.pixelsweeper.com/2022/10/06/pixelsweeper-integrates-chainlink-vrf/
 link_preview_img: "/assets/img/partnership-announcement-template-800-x-418-px.png"
 link_preview_description: PixelSweeper Integrates Chainlink VRF To Help Power Player
   and Staker Lucky Draws
