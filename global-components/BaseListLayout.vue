@@ -21,6 +21,9 @@
           <span v-if="type === 'faq'" class="faq-font-inlay">
             {{ getHeadline(type) }}
           </span>
+          <span v-if="type === 'integrations'" class="faq-font-inlay">
+            {{ getHeadline(type) }}
+          </span>
           <span v-if="type === 'archive'" class="archive-font-inlay">
             {{ getHeadline(type) }}
           </span>
@@ -36,6 +39,9 @@
             {{ getHeadline(type) }}
           </span>
           <span v-if="type === 'faq'" class="faq-font-overlay">
+            {{ getHeadline(type) }}
+          </span>
+          <span v-if="type === 'integrations'" class="faq-font-overlay">
             {{ getHeadline(type) }}
           </span>
           <span v-if="type === 'archive'" class="archive-font-overlay">
@@ -158,7 +164,13 @@ export default {
     // console.log({ siteData: Vue.$vuepress.$get('siteData') })
     return {
       pages: [],
-      displayed_categories: ['swpr-guide', 'overview', 'faq', 'archive'],
+      displayed_categories: [
+        'swpr-guide',
+        'overview',
+        'faq',
+        'integrations',
+        'archive',
+      ],
       paginationSwprGuide: null,
       paginationOverview: null,
       paginationFaq: null,
