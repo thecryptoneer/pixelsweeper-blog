@@ -1,6 +1,6 @@
 ---
 title: PixelSweeper Integrates Chainlink VRF
-date: 2022-06-10 12:00:00 +0200
+date: 2022-06-09 06:00:00 +0200
 featuredimg: "/assets/img/partnership-announcement-template-800-x-418-px.png"
 summary: PixelSweeper Integrates Chainlink VRF To Help Power Player and Staker Lucky
   Draws
