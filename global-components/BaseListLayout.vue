@@ -240,6 +240,11 @@ export default {
         case 'archive': {
           return 'Archive'
         }
+        case 'integrations': {
+          return 'Integrations'
+        }
+        default:
+          return type
       }
     },
   },
