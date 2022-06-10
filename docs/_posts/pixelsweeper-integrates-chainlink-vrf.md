@@ -45,7 +45,7 @@ Chainlink VRF works by combining block data that is still unknown when the reque
 
 The PixelSweeper smart contract will only accept the random number input if it has a valid cryptographic proof, and the cryptographic proof can only be generated if the VRF process is tamper-proof. This provides our users with automated and verifiable assurances directly on-chain that the randomness underpinning Player and Staker Pot drawings is provably fair and was not tampered with by the oracle, outside entities, or the PixelSweeper team.
 
-![](https://lh5.googleusercontent.com/ofPIA5CUqI9UPDtjTxDhYI274dA_P3-X25fGcRnQQJgVZysPFR9bZ6zZReO695PNS203ErgsA_Yv2oP17BJlxLuZ9XcI4bsEVaAY6zWgVHSqQQrOuBaJ5FBo4T4BXoJRGEjP03Ra1B1Fsnm9Ng =624x201)
+![](https://lh6.googleusercontent.com/vR4fWyYwVe-hGuUtRCozplqkJYYNxqWncnze0HYtR6szzsqbbjQQm2tV_Ert4_I67XqnU3IPlxysWi2C4q9UamZzIrtG4GKa66sAmJFjXQYDrf4-FZuBEkZ3X6EIyiIwIQ8_ME_WT88KrZiT_g =624x201)
 
 “Choosing Chainlink VRF for our random number generation needs was an easy decision. Chainlink is the undisputed market leader in oracles and has proven itself to have a high degree of reliability and security. The integration itself was simple, painless, and the cost and architecture VRF makes it the best solution to access a constant source of random numbers.” – Fab, lead developer at PixelSweeper.
 
