@@ -1,14 +1,14 @@
 ---
 title: Bonnie's News, June 20
-date: 2022-05-23T19:13:00.000+02:00
+date: 2022-06-19 19:13:00 +0200
 featuredimg: "/assets/img/voting-overview.png"
 summary: This article will provide important updates and dates specific to Voting
   for the Community Vault collections
-canonicalUrl: https://blog.pixelsweeper.com/2022/05/23/nominations-next-steps/
+canonicalUrl: https://blog.pixelsweeper.com/2022/06/20/bonnies-news-jun-20
 link_preview_img: "/assets/img/voting-overview.png"
 link_preview_description: This article will provide important updates and dates specific
   to Voting for the Community Vault collections
-category: overview
+category: unpublish
 
 ---
 # Voting Next Steps
