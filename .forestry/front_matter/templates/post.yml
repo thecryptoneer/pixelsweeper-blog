@@ -40,6 +40,7 @@ fields:
   config:
     required: false
 pages:
+- docs/_posts/bonnie-s-news-june-20.md
 - docs/_posts/bonus-draws-overview.md
 - docs/_posts/de-listing-your-nft-before-staking.md
 - docs/_posts/nominations-next-steps.md
