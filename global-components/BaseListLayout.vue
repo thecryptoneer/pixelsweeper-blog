@@ -15,6 +15,9 @@
           <span v-if="type === 'swpr-guide'" class="swpr-guide-font-inlay">
             {{ getHeadline(type) }}
           </span>
+          <span v-if="type === 'bonnies-news'" class="swpr-guide-font-inlay">
+            {{ getHeadline(type) }}
+          </span>
           <span v-if="type === 'overview'" class="overview-font-inlay">
             {{ getHeadline(type) }}
           </span>
@@ -166,6 +169,7 @@ export default {
       pages: [],
       displayed_categories: [
         'swpr-guide',
+        'bonnies-news',
         'overview',
         'faq',
         'integrations',
@@ -230,6 +234,9 @@ export default {
       switch (type) {
         case 'swpr-guide': {
           return 'SWPR Guide'
+        }
+        case 'bonnies-news': {
+          return "Bonnie's Weekly News"
         }
         case 'overview': {
           return 'Overview'
