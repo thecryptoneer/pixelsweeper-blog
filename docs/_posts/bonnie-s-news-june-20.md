@@ -4,7 +4,7 @@ date: 2022-06-20 19:13:00 +0200
 featuredimg: "/assets/img/sans-titre-270_20220620140851.png"
 summary: 'Summary of news from the previous week '
 canonicalUrl: https://blog.pixelsweeper.com/2022/06/20/bonnies-news-jun-20
-link_preview_img: "/assets/img/sans-titre-270_20220620140851.png"
+link_preview_img: "/assets/img/bonnie.png"
 link_preview_description: Summary of news from the previous week by Bonnie
 category: bonnies-news
 author: Bonnie
