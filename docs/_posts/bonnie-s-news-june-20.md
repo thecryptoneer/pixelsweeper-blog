@@ -8,7 +8,7 @@ canonicalUrl: https://blog.pixelsweeper.com/2022/06/20/bonnies-news-jun-20
 link_preview_img: "/assets/img/voting-overview.png"
 link_preview_description: This article will provide important updates and dates specific
   to Voting for the Community Vault collections
-category: bonnies-news
+category: unplusihed
 author: Bonnie
 
 ---
