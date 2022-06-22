@@ -10,85 +10,93 @@ category: unplusihed
 author: Bonnie
 
 ---
-# Voting Next Steps
+Hello fam.
 
-This article provides important updates and dates specific to Voting for the Community Vault collections.
+New week, new format for your "LAST WEEK’s SUMMARY" 🔥
 
-There will be three winning collections. Each of these collections will be swept with BNB raised from the original mint of PixelSweeper.
+From now on, the article will be published on the PixelSweeper blog.
 
-First Place will get a $25,000 Sweep
+Floor Price, volume, news... We keep the same information but in a more helpful format. In the future, you will be able to find all the articles of the past weeks on the blog.
 
-Second Place will get a $15,000 Sweep
+#### **#FLOOR PRICE & VOLUME**
 
-Third Place will get a $10,000 Sweep
+![](/assets/img/sans-titre-271_20220620100111.png)  
+As you can see in the image above with the data for the last 7 days, we had a total volume for last week of 344.19 BNB, with an average floor price of 0.785 BNB.
 
-## Voting Power Time Bonus
+This week's volume is higher than the week before with 105.13 BNB more, congrats community!
 
-Every Sweeper that you have staked will contribute to your voting power. There is no minimum, you can vote with as little as one Sweeper, as long you have it staked before the snapshot.
+#### #TOP 3 SALES OF THE WEEK
 
-The Time Bonus that is used to calculate your chances of winning the Staker Pot draw, is the same for voting.
+**![](/assets/img/sans-titre-271_20220620101213.png)**3 great sales came in this week
 
-In order to ensure you get full voting power, you will need to have your Sweepers staked by **14:00 UTC on Monday May 30**. The longer you leave it before the snapshot, the less voting power you will end up with.
+**SWEEPER #9134** : Sold for 11.54 BNB
 
-The voting power snapshot will be taken at **13:50 UTC on Friday June 3rd**.
+**SWEEPER #6192** : Sold for 9.00 BNB
 
-## Voting
+**SWEEPER #6834** : Sold for 8,5 BNB
 
-Voting for Community Vault Collections will open up on **Monday June 6th at 14:00 UTC**, and will close on **Thursday June 9th**.
+Congratulations to the buyers, who all used Rareboard for their purchases!
 
-Whichever collection is the 1st place winner in the vote, will have its floor swept prior to our Player and Staker Pot drawings the following day on **Friday June 10th**. This means we’ll be able to give away NFTs from the swept collection through our Bonus Draws, as early as **Friday June 10th**.
+Why use Rareboard? Learn more just below ⬇️
 
-## Nominated Collections
+#### **#RAREBOARD SWEEPS SWEEPER!**![](/assets/img/sans-titre-271_20220620130210.png)
 
-Here’s a look at all of the Community Vault NFT Collections that have been nominated:
+For the month of June (and perhaps, others in the future) 50% of the revenue will be used to sweep sweepers. The sweeper sweep will be redistributed to rareboard users 👀
 
-Cross Bosses
+Buying on rareboard costs you nothing more than buying the same NFT on another marketplace. Rareboard is a marketplace aggregator: when you make a purchase on Rareboard, it’s like rareboard buys on the marketplace for you, and sometimes earns a % of the transaction fees depending on the agreement  it has with the marketplace. It’s 50% of this revenues that is used to sweep sweepers.
 
-Oddblox
+But don't stop at Pixelsweeper, all Rareboard income is used for sweeping. You can also use it also to buy the nfts of your favorite collections, and mint from new ones. And since recently, you can now accept NFTkey bids on rareboard.
 
-ShitPunks
+An additional advantage for you: Rareboard mint pass!
 
-Doodle Apes BSC
+The more you use Rareboard, the more you increase your user score, the more chances you have of obtaining Rareboard Mint Pass. You can learn more about it here. 
 
-Lil Bulls
+#### **#VIVATECH 2022**![](/assets/img/sans-titre-271_20220620130250.png)
 
-BitPunks
+What is Vivatech ?
 
-Trippy Trunkz Ivory Club
+Viva Technology, or VivaTech, is an annual technology conference, dedicated to innovation and startups, held in Paris, France. VivaTech was founded in 2016 by Publicis Groupe and Groupe Les Echos, about 126,000 visitors have attended.
 
-Baked Potatoes
+We were surprised to discover we were in the spotlight on the Binance booth, with some nfts from PancakeSwap too. It was an incredible moment and we are proud to have been represented and recognized by Binance. 
 
-The Living Dead
+#### **#PRIZE VAULT**
 
-LittleGhosts
+#### ![](/assets/img/sans-titre-271_20220620130047.png)
 
-Pancake Bunnies
+**Squaddies**:  During the last week, we swept 6 Squaddies. Since launch, we have swept 176 squaddies, 24 have already been won by PixelSweeper stakers. **Community NFTs**: The First week after the vote, 10 Oddblox were won. Last Friday 10 Lilbulls were won. This week, it will be Horror ape club that you can win. 
 
-BinanceBullSoc
+The vault currently contains: 
 
-JoshTheFlamingoNFT
+\-152 Squaddies
 
-DegenApeClub
+\-272 Oddblox
 
-BornBadBoys
+\-184 Lilbulls
 
-HorrorApeClub
+\-147 H.A.C
 
-Sluggish Sloths
+#### **#SPOTLIGHT MEMBER OF THE WEEK:** 
 
-RetroBoyzAssociation
+![](/assets/img/sans-titre-271_20220620125741.png)This week I'd like to spotlight Nitro.
 
-The Moon Walkers Club
+Nitro is a big holder (yeah, he is a whale!) of several collections. Sweepers of course but also Pancake Squad, Shitpunk, BBB and a few others.
 
-PsyBulls
+Nitro is still active on our telegram chat, he brings a good mood to our days and we can't stop him: Nitro buy again! 
 
-ExoWarrior
+But beware, Nitro doesn't like to buy at floor price. Nitro analyzes, Nitro asks Luke for advice, then Nitro buys. If a sweeper is in Nitro's wallet, then it's a medium rare, for sure!
 
-GingerBreadBoys
+Thank you Nitro for your investment in the community ❤️
 
-Neural Pepe
+#### **#PARTNER COMMUNITIES:** 
 
-We will confirm which Pancake Bunnies collections are eligible before the vote begins.
+![](/assets/img/sans-titre-271_20220620120750.png)
 
-Thank you for your nominations.  
-![](/assets/img/untitled-design-10.png)
+**LuckyCharms**: Mint in progress, Reveal Soon.
+
+**PlanetZUUD**: WL for Top #SWPR stakers - WL mint start on Rareboard 21 June - 0.35 BNB . (Uptade : SOLD OUT)
+
+**Exopets**: WL for somes SWPR stakers - MINT TBA on Rareboard.
+
+Thank for reading, see you next week.
+
+**Bonnie**
