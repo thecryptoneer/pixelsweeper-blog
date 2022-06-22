@@ -39,7 +39,23 @@ fields:
   label: category
   config:
     required: false
+- name: author
+  type: select
+  default: PixelSweeper
+  config:
+    required: true
+    options:
+    - PixelSweeper
+    - Bonnie
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: author
+  description: Please select the author
 pages:
+- docs/_posts/bonnie-s-news-june-20.md
 - docs/_posts/bonus-draws-overview.md
 - docs/_posts/de-listing-your-nft-before-staking.md
 - docs/_posts/nominations-next-steps.md

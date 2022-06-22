@@ -1,6 +1,6 @@
 ---
 title: PixelSweeper Integrates Chainlink VRF
-date: 2022-06-11 06:00:00 +0200
+date: 2022-06-11T06:00:00.000+02:00
 featuredimg: "/assets/img/partnership-announcement-template-800-x-418-px.png"
 summary: PixelSweeper Integrates Chainlink VRF To Help Power Player and Staker Lucky
   Draws
@@ -15,7 +15,7 @@ category: integrations
 
 We’re excited to announce that PixelSweeper—a collection of ERC721 3D NFTs—has integrated [Chainlink Verifiable Random Function (VRF)](https://chain.link/solutions/chainlink-vrf) on BNB Chain mainnet.
 
-By integrating the industry-leading decentralized oracle network, we have access to a tamper-proof and auditable source of randomness needed to help select the weekly winners of the PixelSweeper Player and Staker Pot drawings. Rewards include NFTs from Pancake Squad and other BNB Chain NFT collections. 
+By integrating the industry-leading decentralized oracle network, we have access to a tamper-proof and auditable source of randomness needed to help select the weekly winners of the PixelSweeper Player and Staker Pot drawings. Rewards include NFTs from Pancake Squad and other BNB Chain NFT collections.
 
 Ultimately this creates a more exciting and transparent user experience, as users can independently verify the random selection process from each week's drawings for high assurances that winners were decided in a provably fair manner.
 
@@ -31,7 +31,7 @@ Sales from the initial PixelSweeper mint and all ongoing ticket sales are alloca
 * 5% used to sweep the floor of other BNB Chain collections as voted on by PixelSweeper holders
 * 5% for the team
 
-![](https://lh3.googleusercontent.com/Ght8QMd4rnLezgYS-P_6f9o1WQ_fjtxvOuQPu11wdAIIdM3p1XV-s3r7REaYn0_lDvAM7yyKKkHyqZQ2ZNs5Q4Fyjv19bL635QqNpb_vr2-CcdWI9wY-gHhV0pSKQwg8GgkglDrcVqL4U2eREg =624x200)
+![](/assets/img/bnft-banner_1440x460_2x.png)
 
 ## **Why Choose Chainlink**
 
@@ -45,7 +45,7 @@ Chainlink VRF works by combining block data that is still unknown when the reque
 
 The PixelSweeper smart contract will only accept the random number input if it has a valid cryptographic proof, and the cryptographic proof can only be generated if the VRF process is tamper-proof. This provides our users with automated and verifiable assurances directly on-chain that the randomness underpinning Player and Staker Pot drawings is provably fair and was not tampered with by the oracle, outside entities, or the PixelSweeper team.
 
-![](https://lh5.googleusercontent.com/ofPIA5CUqI9UPDtjTxDhYI274dA_P3-X25fGcRnQQJgVZysPFR9bZ6zZReO695PNS203ErgsA_Yv2oP17BJlxLuZ9XcI4bsEVaAY6zWgVHSqQQrOuBaJ5FBo4T4BXoJRGEjP03Ra1B1Fsnm9Ng =624x201)
+![](/assets/img/screenshot-2022-06-10-105141.png)
 
 “Choosing Chainlink VRF for our random number generation needs was an easy decision. Chainlink is the undisputed market leader in oracles and has proven itself to have a high degree of reliability and security. The integration itself was simple, painless, and the cost and architecture VRF makes it the best solution to access a constant source of random numbers.” – Fab, lead developer at PixelSweeper.
 
