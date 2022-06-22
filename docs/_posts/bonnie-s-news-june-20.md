@@ -1,13 +1,11 @@
 ---
 title: Bonnie's News, June 20
-date: 2022-06-19T19:13:00.000+02:00
-featuredimg: "/assets/img/voting-overview.png"
-summary: This article will provide important updates and dates specific to Voting
-  for the Community Vault collections
+date: 2022-06-20 19:13:00 +0200
+featuredimg: "/assets/img/sans-titre-270_20220620140851.png"
+summary: 'Summary of news from the previous week '
 canonicalUrl: https://blog.pixelsweeper.com/2022/06/20/bonnies-news-jun-20
-link_preview_img: "/assets/img/voting-overview.png"
-link_preview_description: This article will provide important updates and dates specific
-  to Voting for the Community Vault collections
+link_preview_img: "/assets/img/sans-titre-270_20220620140851.png"
+link_preview_description: Summary of news from the previous week by Bonnke
 category: unplusihed
 author: Bonnie
 
