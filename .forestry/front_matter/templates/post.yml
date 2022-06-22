@@ -46,6 +46,7 @@ fields:
     required: true
     options:
     - PixelSweeper
+    - Bonnie
     source:
       type: simple
       section: 
