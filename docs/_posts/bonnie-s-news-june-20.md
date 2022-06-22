@@ -5,7 +5,7 @@ featuredimg: "/assets/img/sans-titre-270_20220620140851.png"
 summary: 'Summary of news from the previous week '
 canonicalUrl: https://blog.pixelsweeper.com/2022/06/20/bonnies-news-jun-20
 link_preview_img: "/assets/img/sans-titre-270_20220620140851.png"
-link_preview_description: Summary of news from the previous week by Bonnke
+link_preview_description: Summary of news from the previous week by Bonnie
 category: unplusihed
 author: Bonnie
 
@@ -41,7 +41,9 @@ Congratulations to the buyers, who all used Rareboard for their purchases!
 
 Why use Rareboard? Learn more just below ⬇️
 
-#### **#RAREBOARD SWEEPS SWEEPER!**![](/assets/img/sans-titre-271_20220620130210.png)
+#### **#RAREBOARD SWEEPS SWEEPER!**
+
+#### ![](/assets/img/sans-titre-271_20220620130210.png)
 
 For the month of June (and perhaps, others in the future) 50% of the revenue will be used to sweep sweepers. The sweeper sweep will be redistributed to rareboard users 👀
 
