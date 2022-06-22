@@ -43,7 +43,7 @@ Why use Rareboard? Learn more just below ⬇️
 
 ## **RAREBOARD SWEEPS SWEEPER!**
 
-#### ![](/assets/img/sans-titre-271_20220620130210.png)
+![](/assets/img/sans-titre-271_20220620130210.png)
 
 For the month of June (and perhaps, others in the future) 50% of the revenue will be used to sweep sweepers. The sweeper sweep will be redistributed to Rareboard users 👀
 
