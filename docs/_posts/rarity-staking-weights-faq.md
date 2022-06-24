@@ -1,6 +1,6 @@
 ---
 title: Rarity & Staking Weights FAQ
-date: 2022-05-16 15:00:00 +0200
+date: 2022-05-16T15:00:00.000+02:00
 featuredimg: "/assets/img/forestry-graphics-2.png"
 summary: This FAQ will explain how the length of time your Sweepers are staked, and
   the rarity of your staked Sweepers, will impact your chances of winning in the pot
@@ -10,7 +10,9 @@ link_preview_img: "/assets/img/forestry-graphics-2.png"
 link_preview_description: This FAQ will explain how the length of time your Sweepers
   are staked, and the rarity of your staked Sweepers, will impact your chances of
   winning in the pot draws, as well as the weight your votes will carry.
-category: 'faq'
+category: faq
+author: PixelSweeper
+
 ---
 # Rarity & Staking Weights FAQ
 
