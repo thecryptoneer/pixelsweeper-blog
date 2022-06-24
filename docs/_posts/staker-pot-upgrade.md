@@ -1,6 +1,6 @@
 ---
 title: Staker Pot Upgrade
-date: 2022-05-27 15:14:00 +0200
+date: 2022-05-27T15:14:00.000+02:00
 featuredimg: "/assets/img/forestry-graphics-5.png"
 summary: This article explains why we had to upgrade the Staker Pot, what’s changing
   and what will happen in the next week.
@@ -8,7 +8,8 @@ canonicalUrl: https://blog.pixelsweeper.com/2022/05/27/staker-pot-upgrade/
 link_preview_img: "/assets/img/forestry-graphics-5.png"
 link_preview_description: This article explains why we had to upgrade the Staker Pot,
   what’s changing and what will happen in the next week.
-category: swpr-guide
+category: unpublish
+author: PixelSweeper
 
 ---
 # **Staker Pot Upgrade**
