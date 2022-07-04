@@ -12,7 +12,10 @@ link_preview_description: The BNB raised by PixelSweeper will not only be used t
   sweep the Pancake Squad floor.  5% of all funds generated from our PixelSweeper
   mint and ongoing Player Pot ticket sales will be used to sweep the floor of other
   BNB Chain NFT collections as well, as voted on by our PixelSweeper holders.
-category: 'overview'
+category: overview
+permalink: ''
+author: PixelSweeper
+toc: true
 
 ---
 # **Community Vault Bonus Draws**
