@@ -9,6 +9,10 @@ link_preview_img: "/assets/img/voting-overview.png"
 link_preview_description: This article will provide important updates and dates specific
   to Voting for the Community Vault collections
 category: overview
+permalink: ''
+publishDate: ''
+author: PixelSweeper
+toc: true
 
 ---
 # Voting Next Steps
