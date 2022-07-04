@@ -9,12 +9,48 @@ fields:
   label: permalink
   description: 'This will define the url of the article.<br><code>permalink: /hello-world
     --&gt; articles.rareboard.com/hello-world</code>'
+- name: category
+  type: select
+  default: unpublish
+  config:
+    required: false
+    options:
+    - swpr-guide
+    - overview
+    - faq
+    - integrations
+    - archive
+    - unpublish
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: category
+  description: Here you can control in which category the article should show up.
+    If you need to add new categories please contact thecryptoneer
 - type: text
   name: title
   label: title
 - type: datetime
   name: date
   label: date
+  config:
+    date_format: YYYY/MM/DD
+    time_format: hh:mm A Z
+    export_format: YYYY-MM-DDThh:mm:ss.SSSZ
+    display_utc: true
+    required: true
+- name: publishDate
+  type: datetime
+  label: publishDate
+  description: ''
+  config:
+    required: true
+    date_format: YYYY/MM/DD
+    time_format: hh:mm A Z
+    display_utc: true
+    export_format: YYYY-MM-DDThh:mm:ss.SSSZ
 - name: featuredimg
   type: file
   config:
@@ -41,11 +77,6 @@ fields:
   label: link_preview_description
   config:
     required: true
-- type: text
-  name: category
-  label: category
-  config:
-    required: false
 - name: author
   type: select
   default: PixelSweeper
@@ -61,6 +92,11 @@ fields:
       path: 
   label: author
   description: Please select the author
+- name: toc
+  type: boolean
+  label: Show toc
+  description: enable or disable toc (Table of content) for articles
+  default: true
 pages:
 - docs/_posts/bonnie-s-news-june-20.md
 - docs/_posts/bonus-draws-overview.md
