@@ -41,16 +41,6 @@ fields:
     export_format: YYYY-MM-DDThh:mm:ss.SSSZ
     display_utc: true
     required: true
-- name: publishDate
-  type: datetime
-  label: publishDate
-  description: ''
-  config:
-    required: true
-    date_format: YYYY/MM/DD
-    time_format: hh:mm A Z
-    display_utc: true
-    export_format: YYYY-MM-DDThh:mm:ss.SSSZ
 - name: featuredimg
   type: file
   config:
