@@ -2,6 +2,16 @@
 label: Post
 hide_body: false
 fields:
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: permalink
+  description: 'This will define the url of the article.<br><code>permalink: /hello-world
+    --&gt; articles.rareboard.com/hello-world<br><br>If not set it will default to
+    the filename, which will be created by the title of the articles. <br></code><a
+    href="https://vuepress.vuejs.org/guide/permalinks.html#permalinks-2" title="Read
+    more" target="_blank">https://vuepress.vuejs.org/guide/permalinks.html#permalinks-2</a>'
 - type: text
   name: title
   label: title
