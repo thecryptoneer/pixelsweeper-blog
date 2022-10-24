@@ -24,9 +24,7 @@ Here is a link of a google folder : [Click Here](https://drive.google.com/drive/
 
 • **AI is allowed (** [**BeCrazy**](T.me/ElKebaboKing) **will be happy 😁 ) , The only condition is that it need to look like a sweeper.**
 
-Once your artwork is finished, you need to post it in comment under our Halloween Post, use :
-
-[@Pixelsweeper](Twitter.com/PixelSweeper) and use #SWPR #NFTs #Halloween #HalloweenSWPR #BNBchain.
+Once your artwork is finished, you need to post it in comment under our Halloween Post, use [@Pixelsweeper](Twitter.com/PixelSweeper) and #SWPR #NFTs #Halloween #HalloweenSWPR #BNBchain.
 
 **_And retweet your own comment!_**
 
