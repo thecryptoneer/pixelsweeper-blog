@@ -14,8 +14,6 @@ link_preview_description: Be ready for the contest
 ---
 ### **To celebrate Halloween, PixelSweeper Team has prepared an Art Contest for you.**
 
-![](/assets/img/sans-titre-387_20221019092925.png)
-
 ### How it works ?
 
 Here is a link of a google folder : [Click Here](https://drive.google.com/drive/folders/1w4oaZ4JXt_6BCNix0XJLv3kkIWP7hSs7) , inside you will find a background and different Sweeper attributes on the Halloween theme.
