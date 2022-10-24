@@ -5,10 +5,10 @@ toc: true
 permalink: "/Halloween"
 title: Halloween Art Contest
 date: 2022-10-24T02:00:00.000+02:00
-featuredimg: "/assets/img/sans-titre-387_20221019092925.png"
+featuredimg: "/assets/img/sans-titre-409_20221024134624.png"
 summary: Be ready for the contest
 canonicalUrl: https://blog.pixelsweeper.com/Halloween
-link_preview_img: "/assets/img/sans-titre-387_20221019092925.png"
+link_preview_img: "/assets/img/sans-titre-409_20221024134624.png"
 link_preview_description: Be ready for the contest
 
 ---
