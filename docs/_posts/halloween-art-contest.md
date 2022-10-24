@@ -1,5 +1,5 @@
 ---
-category: archive
+category: swpr-guide
 author: PixelSweeper
 toc: true
 permalink: "/Halloween"
