@@ -22,9 +22,9 @@ Here is a link of a google folder : [Click Here](https://drive.google.com/drive/
 
 • **You can use all the files from the** [**google folder**](https://drive.google.com/drive/folders/1w4oaZ4JXt_6BCNix0XJLv3kkIWP7hSs7) **or create your own.**
 
-• **AI is allowed (** [**BeCrazy**](T.me/ElKebaboKing) **will be happy 😁 ) , The only condition is that it need to look like a sweeper.**
+• **AI is allowed (** [**BeCrazy**](https://t.me/ElKebaboKing/) **will be happy 😁 ) , The only condition is that it need to look like a sweeper.**
 
-Once your artwork is finished, you need to post it in comment under our Halloween Post, use [@Pixelsweeper](Twitter.com/PixelSweeper) and #SWPR #NFTs #Halloween #HalloweenSWPR #BNBchain.
+Once your artwork is finished, you need to post it in comment under our Halloween Post, use [@Pixelsweeper](Https://Twitter.com/PixelSweeper/) and #SWPR #NFTs #Halloween #HalloweenSWPR #BNBchain.
 
 **_And retweet your own comment!_**
 
